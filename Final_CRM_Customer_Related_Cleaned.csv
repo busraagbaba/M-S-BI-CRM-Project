@@ -1,0 +1,991 @@
+Customer_ID,First_Name,Last_Name,Email,City,Region,Latitude,Longitude,Segment,Loyalty_Score,Loyalty_Level,Interaction_ID,Campaign_Name,Channel,Response,Interaction_Date
+CUST0001,Danielle,Johnson,danielle.johnson.cust0001@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01394,Clearance Deal,Social Media,Purchased,2024-01-05
+CUST0001,Danielle,Johnson,danielle.johnson.cust0001@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00428,Clearance Deal,Social Media,No Action,2024-03-11
+CUST0001,Danielle,Johnson,danielle.johnson.cust0001@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01394,Clearance Deal,Social Media,Purchased,2024-08-15
+CUST0001,Danielle,Johnson,danielle.johnson.cust0001@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01394,Clearance Deal,Social Media,Purchased,2024-06-12
+CUST0001,Danielle,Johnson,danielle.johnson.cust0001@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00382,Summer Sale,Social Media,No Action,2024-01-23
+CUST0001,Danielle,Johnson,danielle.johnson.cust0001@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00880,Clearance Deal,SMS,Purchased,2024-03-14
+CUST0002,Joy,Gardner,jesse.guzman.cust0002@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00892,Loyalty Bonus,App Notification,Purchased,2024-04-09
+CUST0002,Joy,Gardner,jesse.guzman.cust0002@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00892,Loyalty Bonus,App Notification,Purchased,2024-11-24
+CUST0003,Carolyn,Hoffman,colin.abbott.cust0003@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT01152,Loyalty Bonus,App Notification,Purchased,2024-08-11
+CUST0003,Carolyn,Hoffman,colin.abbott.cust0003@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT01330,Summer Sale,App Notification,No Action,2024-03-06
+CUST0003,Carolyn,Hoffman,colin.abbott.cust0003@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT01152,Loyalty Bonus,App Notification,Purchased,2024-03-23
+CUST0003,Carolyn,Hoffman,colin.abbott.cust0003@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00131,New Arrival,Social Media,Purchased,2024-04-16
+CUST0003,Carolyn,Hoffman,colin.abbott.cust0003@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT01152,Loyalty Bonus,App Notification,Purchased,2024-04-15
+CUST0004,Katherine,Moore,brandon.perez.cust0004@example.com,Cork,Munster,51.8985,-8.4756,High Value,40,Low,INT00509,Clearance Deal,App Notification,Purchased,2024-04-15
+CUST0004,Katherine,Moore,brandon.perez.cust0004@example.com,Cork,Munster,51.8985,-8.4756,High Value,40,Low,INT00509,Clearance Deal,App Notification,Purchased,2024-10-12
+CUST0005,Christopher,Davis,jacqueline.sutton.cust0005@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,50,Low,INT00414,Loyalty Bonus,Email,Purchased,2024-02-10
+CUST0005,Christopher,Davis,jacqueline.sutton.cust0005@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,50,Low,INT00414,Loyalty Bonus,Email,Purchased,2024-09-09
+CUST0005,Christopher,Davis,jacqueline.sutton.cust0005@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,50,Low,INT00757,New Arrival,Email,No Action,2024-06-10
+CUST0006,Teresa,Gray,jeremy.johnson.cust0006@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,70,Medium,INT00755,Loyalty Bonus,Email,No Action,2024-07-20
+CUST0006,Teresa,Gray,jeremy.johnson.cust0006@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,70,Medium,INT00570,Clearance Deal,Social Media,Purchased,2024-07-12
+CUST0006,Teresa,Gray,jeremy.johnson.cust0006@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,70,Medium,INT00755,Loyalty Bonus,Email,No Action,2024-03-20
+CUST0007,Jeremy,Roberts,douglas.taylor.cust0007@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT00760,New Arrival,Social Media,No Action,2024-12-19
+CUST0007,Jeremy,Roberts,douglas.taylor.cust0007@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT00703,New Arrival,Email,Purchased,2024-02-19
+CUST0007,Jeremy,Roberts,douglas.taylor.cust0007@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT00703,New Arrival,Email,Purchased,2024-05-16
+CUST0007,Jeremy,Roberts,douglas.taylor.cust0007@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT00703,New Arrival,Email,Purchased,2024-11-08
+CUST0008,Michael,Santiago,bryan.james.cust0008@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT00173,Loyalty Bonus,Social Media,Purchased,2024-02-06
+CUST0008,Michael,Santiago,bryan.james.cust0008@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT00625,Clearance Deal,SMS,No Action,2024-05-08
+CUST0008,Michael,Santiago,bryan.james.cust0008@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT01311,Clearance Deal,App Notification,Purchased,2024-04-10
+CUST0009,Jeffrey,Nguyen,shawn.mckay.cust0009@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,80,High,INT00473,Loyalty Bonus,Social Media,Purchased,2024-01-13
+CUST0009,Jeffrey,Nguyen,shawn.mckay.cust0009@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,80,High,INT01366,Clearance Deal,Email,No Action,2024-01-07
+CUST0012,Jeffrey,Bright,debra.kim.cust0012@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT00150,Clearance Deal,Email,Purchased,2024-05-20
+CUST0013,Courtney,Conner,brian.jones.cust0013@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00968,Clearance Deal,Social Media,No Action,2024-02-23
+CUST0013,Courtney,Conner,brian.jones.cust0013@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00097,Summer Sale,Email,Purchased,2024-03-23
+CUST0013,Courtney,Conner,brian.jones.cust0013@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00968,Clearance Deal,Social Media,No Action,2024-06-16
+CUST0013,Courtney,Conner,brian.jones.cust0013@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00774,Clearance Deal,Social Media,Purchased,2024-01-23
+CUST0014,Allison,Maddox,james.davis.cust0014@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,30,Low,INT00608,New Arrival,Email,No Action,2024-03-15
+CUST0015,Ryan,Chavez,shane.henderson.cust0015@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00202,Loyalty Bonus,Social Media,No Action,2024-10-18
+CUST0015,Ryan,Chavez,shane.henderson.cust0015@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT01210,New Arrival,Social Media,No Action,2024-02-16
+CUST0017,Sarah,Koch,lee.williams.cust0017@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00071,New Arrival,SMS,No Action,2024-01-10
+CUST0017,Sarah,Koch,lee.williams.cust0017@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT01268,Clearance Deal,Social Media,No Action,2024-08-06
+CUST0017,Sarah,Koch,lee.williams.cust0017@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00071,New Arrival,SMS,No Action,2024-04-23
+CUST0017,Sarah,Koch,lee.williams.cust0017@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00648,Summer Sale,Social Media,Purchased,2024-06-12
+CUST0018,Christopher,Tucker,david.zamora.cust0018@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT01338,New Arrival,App Notification,Purchased,2024-01-16
+CUST0018,Christopher,Tucker,david.zamora.cust0018@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT00523,New Arrival,App Notification,Purchased,2024-07-07
+CUST0018,Christopher,Tucker,david.zamora.cust0018@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT00773,Loyalty Bonus,Social Media,Purchased,2024-10-20
+CUST0018,Christopher,Tucker,david.zamora.cust0018@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT00866,Clearance Deal,App Notification,No Action,2024-11-06
+CUST0019,Sarah,Campos,john.foster.cust0019@example.com,Cork,Munster,51.8985,-8.4756,High Value,60,Medium,INT00987,New Arrival,App Notification,No Action,2024-09-06
+CUST0019,Sarah,Campos,john.foster.cust0019@example.com,Cork,Munster,51.8985,-8.4756,High Value,60,Medium,INT00007,Loyalty Bonus,App Notification,Purchased,2024-08-16
+CUST0019,Sarah,Campos,john.foster.cust0019@example.com,Cork,Munster,51.8985,-8.4756,High Value,60,Medium,INT00007,Loyalty Bonus,App Notification,Purchased,2024-11-17
+CUST0019,Sarah,Campos,john.foster.cust0019@example.com,Cork,Munster,51.8985,-8.4756,High Value,60,Medium,INT00007,Loyalty Bonus,App Notification,Purchased,2024-04-16
+CUST0019,Sarah,Campos,john.foster.cust0019@example.com,Cork,Munster,51.8985,-8.4756,High Value,60,Medium,INT00966,Clearance Deal,SMS,No Action,2024-05-09
+CUST0020,Brianna,Hall,nicole.suarez.cust0020@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00524,Summer Sale,App Notification,No Action,2024-02-12
+CUST0020,Brianna,Hall,nicole.suarez.cust0020@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00524,Summer Sale,App Notification,No Action,2024-10-08
+CUST0020,Brianna,Hall,nicole.suarez.cust0020@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00882,Clearance Deal,App Notification,Purchased,2024-04-06
+CUST0020,Brianna,Hall,nicole.suarez.cust0020@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00882,Clearance Deal,App Notification,Purchased,2024-05-12
+CUST0020,Brianna,Hall,nicole.suarez.cust0020@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00090,New Arrival,Social Media,Purchased,2024-03-14
+CUST0021,Chad,Young,angela.nelson.cust0021@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT01094,Clearance Deal,Social Media,Purchased,2024-09-19
+CUST0021,Chad,Young,angela.nelson.cust0021@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT01436,New Arrival,Social Media,No Action,2024-01-22
+CUST0021,Chad,Young,angela.nelson.cust0021@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT01333,Loyalty Bonus,SMS,Purchased,2024-10-06
+CUST0021,Chad,Young,angela.nelson.cust0021@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT01094,Clearance Deal,Social Media,Purchased,2024-03-20
+CUST0021,Chad,Young,angela.nelson.cust0021@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00945,Clearance Deal,SMS,No Action,2024-04-16
+CUST0021,Chad,Young,angela.nelson.cust0021@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT01436,New Arrival,Social Media,No Action,2024-05-06
+CUST0022,Barbara,Sanchez,david.whitney.cust0022@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00993,New Arrival,App Notification,Purchased,2024-12-05
+CUST0023,Ryan,Henderson,david.parker.cust0023@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT01332,New Arrival,App Notification,Purchased,2024-03-23
+CUST0023,Ryan,Henderson,david.parker.cust0023@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT01187,Loyalty Bonus,SMS,No Action,2024-01-11
+CUST0023,Ryan,Henderson,david.parker.cust0023@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT01332,New Arrival,App Notification,Purchased,2024-12-12
+CUST0023,Ryan,Henderson,david.parker.cust0023@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT01201,Loyalty Bonus,Social Media,Purchased,2024-11-10
+CUST0023,Ryan,Henderson,david.parker.cust0023@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT01332,New Arrival,App Notification,Purchased,2024-02-18
+CUST0023,Ryan,Henderson,david.parker.cust0023@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT01332,New Arrival,App Notification,Purchased,2024-11-08
+CUST0024,Bruce,Chandler,nicole.johnson.cust0024@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT01075,Loyalty Bonus,App Notification,Purchased,2024-06-15
+CUST0024,Bruce,Chandler,nicole.johnson.cust0024@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT01075,Loyalty Bonus,App Notification,Purchased,2024-06-11
+CUST0026,Tanya,House,tina.herrera.cust0026@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,40,Low,INT00206,Clearance Deal,App Notification,No Action,2024-08-19
+CUST0026,Tanya,House,tina.herrera.cust0026@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,40,Low,INT01031,New Arrival,Social Media,Purchased,2024-01-13
+CUST0027,Tricia,Baker,samuel.joyce.cust0027@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT00602,Loyalty Bonus,Social Media,No Action,2024-08-08
+CUST0027,Tricia,Baker,samuel.joyce.cust0027@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01430,Loyalty Bonus,SMS,No Action,2024-09-08
+CUST0027,Tricia,Baker,samuel.joyce.cust0027@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT00680,Summer Sale,Email,No Action,2024-04-17
+CUST0027,Tricia,Baker,samuel.joyce.cust0027@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01204,Clearance Deal,SMS,Purchased,2024-07-19
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01475,Summer Sale,Email,Purchased,2024-01-09
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01475,Summer Sale,Email,Purchased,2024-07-05
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01246,Clearance Deal,Email,No Action,2024-11-08
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT00565,Summer Sale,Social Media,No Action,2024-02-18
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01475,Summer Sale,Email,Purchased,2024-12-24
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01172,Summer Sale,Email,No Action,2024-05-23
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01172,Summer Sale,Email,No Action,2024-05-24
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT01172,Summer Sale,Email,No Action,2024-04-13
+CUST0028,James,Robinson,rachel.hunter.cust0028@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,70,Medium,INT00209,Clearance Deal,App Notification,Purchased,2024-11-11
+CUST0029,Susan,Miller,kevin.clark.cust0029@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00925,Clearance Deal,SMS,No Action,2024-03-23
+CUST0029,Susan,Miller,kevin.clark.cust0029@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00025,Clearance Deal,SMS,No Action,2024-07-10
+CUST0029,Susan,Miller,kevin.clark.cust0029@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00989,Summer Sale,App Notification,Purchased,2024-03-07
+CUST0029,Susan,Miller,kevin.clark.cust0029@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00025,Clearance Deal,SMS,No Action,2024-05-18
+CUST0030,Beth,Williams,matthew.cardenas.cust0030@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,60,Medium,INT00777,Summer Sale,Email,No Action,2024-05-13
+CUST0030,Beth,Williams,matthew.cardenas.cust0030@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,60,Medium,INT00777,Summer Sale,Email,No Action,2024-03-18
+CUST0030,Beth,Williams,matthew.cardenas.cust0030@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,60,Medium,INT00777,Summer Sale,Email,No Action,2024-09-13
+CUST0031,John,Foster,james.horton.cust0031@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00836,New Arrival,Social Media,No Action,2024-06-12
+CUST0031,John,Foster,james.horton.cust0031@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00836,New Arrival,Social Media,No Action,2024-07-18
+CUST0031,John,Foster,james.horton.cust0031@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT01271,New Arrival,SMS,No Action,2024-11-07
+CUST0032,Albert,Howell,stephen.solis.cust0032@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00371,New Arrival,SMS,No Action,2024-06-21
+CUST0032,Albert,Howell,stephen.solis.cust0032@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00832,New Arrival,Email,Purchased,2024-03-12
+CUST0033,Mike,Moore,scott.reeves.cust0033@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01052,New Arrival,Social Media,Purchased,2024-02-12
+CUST0033,Mike,Moore,scott.reeves.cust0033@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01042,New Arrival,Email,Purchased,2024-07-17
+CUST0033,Mike,Moore,scott.reeves.cust0033@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT00974,New Arrival,SMS,Purchased,2024-02-19
+CUST0033,Mike,Moore,scott.reeves.cust0033@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01476,Loyalty Bonus,Social Media,Purchased,2024-11-21
+CUST0033,Mike,Moore,scott.reeves.cust0033@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01476,Loyalty Bonus,Social Media,Purchased,2024-01-22
+CUST0033,Mike,Moore,scott.reeves.cust0033@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,30,Low,INT01079,Clearance Deal,App Notification,Purchased,2024-05-19
+CUST0034,Dale,Humphrey,steven.brown.cust0034@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,60,Medium,INT00320,Clearance Deal,Email,No Action,2024-09-06
+CUST0034,Dale,Humphrey,steven.brown.cust0034@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,60,Medium,INT00320,Clearance Deal,Email,No Action,2024-01-12
+CUST0034,Dale,Humphrey,steven.brown.cust0034@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,60,Medium,INT00320,Clearance Deal,Email,No Action,2024-04-18
+CUST0035,Joseph,Jacobs,amanda.navarro.cust0035@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT01443,Loyalty Bonus,Email,Purchased,2024-02-19
+CUST0036,Tracy,Whitehead,anthony.day.cust0036@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,80,High,INT00843,Loyalty Bonus,Email,Purchased,2024-07-22
+CUST0036,Tracy,Whitehead,anthony.day.cust0036@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,80,High,INT00358,Clearance Deal,SMS,No Action,2024-07-19
+CUST0036,Tracy,Whitehead,anthony.day.cust0036@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,80,High,INT00843,Loyalty Bonus,Email,Purchased,2024-06-15
+CUST0036,Tracy,Whitehead,anthony.day.cust0036@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,80,High,INT00843,Loyalty Bonus,Email,Purchased,2024-01-17
+CUST0037,Evan,Ramos,karen.decker.cust0037@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT00193,New Arrival,SMS,No Action,2024-10-14
+CUST0037,Evan,Ramos,karen.decker.cust0037@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT01397,Loyalty Bonus,Email,Purchased,2024-11-12
+CUST0037,Evan,Ramos,karen.decker.cust0037@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT01214,Clearance Deal,Email,Purchased,2024-10-06
+CUST0037,Evan,Ramos,karen.decker.cust0037@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT00868,Loyalty Bonus,App Notification,No Action,2024-09-09
+CUST0037,Evan,Ramos,karen.decker.cust0037@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT01012,New Arrival,App Notification,No Action,2024-01-18
+CUST0038,Rebecca,Gardner,billy.johnson.cust0038@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00829,New Arrival,Email,No Action,2024-04-09
+CUST0038,Rebecca,Gardner,billy.johnson.cust0038@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00867,Clearance Deal,Social Media,Purchased,2024-03-23
+CUST0040,Terri,Brady,charles.vaughn.cust0040@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00338,Summer Sale,App Notification,Purchased,2024-03-18
+CUST0040,Terri,Brady,charles.vaughn.cust0040@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00557,New Arrival,Email,No Action,2024-04-23
+CUST0040,Terri,Brady,charles.vaughn.cust0040@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00338,Summer Sale,App Notification,Purchased,2024-07-09
+CUST0040,Terri,Brady,charles.vaughn.cust0040@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00614,Clearance Deal,Email,Purchased,2024-06-22
+CUST0041,Kimberly,Jenkins,melissa.short.cust0041@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00545,New Arrival,Email,Purchased,2024-02-09
+CUST0041,Kimberly,Jenkins,melissa.short.cust0041@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00534,Clearance Deal,Email,Purchased,2024-06-12
+CUST0042,Lisa,Stevens,brittany.morris.cust0042@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,60,Medium,INT01107,New Arrival,Social Media,Purchased,2024-01-07
+CUST0042,Lisa,Stevens,brittany.morris.cust0042@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,60,Medium,INT00935,New Arrival,Social Media,No Action,2024-03-06
+CUST0043,Mark,Lin,lauren.peterson.cust0043@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT00611,Clearance Deal,Email,No Action,2024-03-14
+CUST0043,Mark,Lin,lauren.peterson.cust0043@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT01351,Clearance Deal,App Notification,No Action,2024-04-05
+CUST0044,Sheila,Wilson,laura.davis.cust0044@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00959,Clearance Deal,SMS,Purchased,2024-06-17
+CUST0044,Sheila,Wilson,laura.davis.cust0044@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00959,Clearance Deal,SMS,Purchased,2024-06-19
+CUST0044,Sheila,Wilson,laura.davis.cust0044@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00959,Clearance Deal,SMS,Purchased,2024-12-10
+CUST0044,Sheila,Wilson,laura.davis.cust0044@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00650,Clearance Deal,Email,Purchased,2024-05-17
+CUST0044,Sheila,Wilson,laura.davis.cust0044@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00482,Summer Sale,Social Media,Purchased,2024-01-21
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00210,Loyalty Bonus,Social Media,Purchased,2024-05-16
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00210,Loyalty Bonus,Social Media,Purchased,2024-09-21
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00139,Summer Sale,SMS,Purchased,2024-01-10
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT01299,Clearance Deal,SMS,No Action,2024-11-21
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00139,Summer Sale,SMS,Purchased,2024-02-21
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00791,Clearance Deal,Social Media,Purchased,2024-04-18
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00074,New Arrival,SMS,Purchased,2024-02-20
+CUST0045,Daniel,Hamilton,john.martinez.cust0045@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT00139,Summer Sale,SMS,Purchased,2024-05-23
+CUST0046,Paul,Ray,kenneth.ward.cust0046@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT01112,Clearance Deal,Social Media,Purchased,2024-04-20
+CUST0046,Paul,Ray,kenneth.ward.cust0046@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT01112,Clearance Deal,Social Media,Purchased,2024-10-07
+CUST0046,Paul,Ray,kenneth.ward.cust0046@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT01112,Clearance Deal,Social Media,Purchased,2024-06-24
+CUST0046,Paul,Ray,kenneth.ward.cust0046@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT00549,Summer Sale,App Notification,No Action,2024-10-20
+CUST0047,Gloria,Bentley,curtis.smith.cust0047@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT00929,New Arrival,Email,Purchased,2024-07-15
+CUST0047,Gloria,Bentley,curtis.smith.cust0047@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT01365,Clearance Deal,Email,No Action,2024-05-10
+CUST0047,Gloria,Bentley,curtis.smith.cust0047@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT00372,Loyalty Bonus,SMS,Purchased,2024-07-17
+CUST0047,Gloria,Bentley,curtis.smith.cust0047@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT00372,Loyalty Bonus,SMS,Purchased,2024-10-15
+CUST0048,William,Estrada,christopher.wright.cust0048@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00094,Clearance Deal,Social Media,Purchased,2024-01-06
+CUST0048,William,Estrada,christopher.wright.cust0048@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00776,Clearance Deal,SMS,No Action,2024-11-17
+CUST0048,William,Estrada,christopher.wright.cust0048@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00776,Clearance Deal,SMS,No Action,2024-02-13
+CUST0049,James,Ortega,christopher.allen.cust0049@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT01158,Clearance Deal,App Notification,Purchased,2024-07-08
+CUST0050,Martha,Torres,amy.holland.cust0050@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00248,Clearance Deal,Email,Purchased,2024-04-07
+CUST0050,Martha,Torres,amy.holland.cust0050@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT01036,Loyalty Bonus,Email,No Action,2024-02-15
+CUST0050,Martha,Torres,amy.holland.cust0050@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00716,Summer Sale,Email,Purchased,2024-02-14
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00762,Summer Sale,Social Media,Purchased,2024-04-24
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00733,Loyalty Bonus,SMS,Purchased,2024-01-24
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT01347,Loyalty Bonus,Email,No Action,2024-11-05
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00733,Loyalty Bonus,SMS,Purchased,2024-03-16
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT01347,Loyalty Bonus,Email,No Action,2024-10-22
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00116,Summer Sale,Email,Purchased,2024-04-11
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00116,Summer Sale,Email,Purchased,2024-01-09
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00116,Summer Sale,Email,Purchased,2024-12-10
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT01347,Loyalty Bonus,Email,No Action,2024-02-14
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00116,Summer Sale,Email,Purchased,2024-10-18
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00733,Loyalty Bonus,SMS,Purchased,2024-05-14
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT00733,Loyalty Bonus,SMS,Purchased,2024-04-22
+CUST0051,Thomas,Santana,richard.nelson.cust0051@example.com,Limerick,Munster,52.6638,-8.6267,High Value,30,Low,INT01347,Loyalty Bonus,Email,No Action,2024-07-05
+CUST0052,Jeffrey,Gonzalez,katelyn.ruiz.cust0052@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT01096,Summer Sale,Social Media,No Action,2024-10-24
+CUST0053,James,Horton,tyler.bates.cust0053@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00144,Clearance Deal,SMS,No Action,2024-05-07
+CUST0053,James,Horton,tyler.bates.cust0053@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00178,Clearance Deal,Social Media,No Action,2024-10-18
+CUST0053,James,Horton,tyler.bates.cust0053@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00865,Summer Sale,Social Media,No Action,2024-08-05
+CUST0053,James,Horton,tyler.bates.cust0053@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00144,Clearance Deal,SMS,No Action,2024-03-14
+CUST0053,James,Horton,tyler.bates.cust0053@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00178,Clearance Deal,Social Media,No Action,2024-10-07
+CUST0053,James,Horton,tyler.bates.cust0053@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT00144,Clearance Deal,SMS,No Action,2024-05-24
+CUST0054,Adam,Potter,mallory.smith.cust0054@example.com,Galway,Connacht,53.2707,-9.0568,High Value,50,Low,INT01202,Loyalty Bonus,Social Media,No Action,2024-09-10
+CUST0054,Adam,Potter,mallory.smith.cust0054@example.com,Galway,Connacht,53.2707,-9.0568,High Value,50,Low,INT01202,Loyalty Bonus,Social Media,No Action,2024-10-24
+CUST0054,Adam,Potter,mallory.smith.cust0054@example.com,Galway,Connacht,53.2707,-9.0568,High Value,50,Low,INT01202,Loyalty Bonus,Social Media,No Action,2024-10-18
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00860,Loyalty Bonus,Social Media,Purchased,2024-08-22
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT01045,New Arrival,SMS,No Action,2024-06-18
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00860,Loyalty Bonus,Social Media,Purchased,2024-02-18
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT01045,New Arrival,SMS,No Action,2024-06-18
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00207,New Arrival,Social Media,Purchased,2024-06-05
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00860,Loyalty Bonus,Social Media,Purchased,2024-09-13
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00300,Clearance Deal,Social Media,Purchased,2024-04-12
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT01045,New Arrival,SMS,No Action,2024-08-19
+CUST0055,Stephen,Solis,teresa.lynch.cust0055@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00300,Clearance Deal,Social Media,Purchased,2024-03-24
+CUST0056,Ronald,Meadows,marilyn.jimenez.cust0056@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,50,Low,INT00852,Loyalty Bonus,App Notification,Purchased,2024-07-05
+CUST0057,Karen,Larsen,sarah.romero.cust0057@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00805,Clearance Deal,Social Media,Purchased,2024-03-12
+CUST0057,Karen,Larsen,sarah.romero.cust0057@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT01230,Summer Sale,App Notification,Purchased,2024-05-12
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01174,Clearance Deal,App Notification,No Action,2024-08-15
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00087,New Arrival,App Notification,No Action,2024-08-05
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00529,New Arrival,Email,No Action,2024-01-07
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00087,New Arrival,App Notification,No Action,2024-04-07
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00087,New Arrival,App Notification,No Action,2024-11-05
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00282,Clearance Deal,App Notification,Purchased,2024-05-16
+CUST0058,Chris,Mitchell,melissa.jenkins.cust0058@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00627,Summer Sale,Social Media,No Action,2024-03-19
+CUST0059,Edward,Reyes,renee.smith.cust0059@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT01452,Loyalty Bonus,App Notification,Purchased,2024-07-07
+CUST0059,Edward,Reyes,renee.smith.cust0059@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT01452,Loyalty Bonus,App Notification,Purchased,2024-02-22
+CUST0059,Edward,Reyes,renee.smith.cust0059@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT00345,Clearance Deal,SMS,No Action,2024-02-17
+CUST0059,Edward,Reyes,renee.smith.cust0059@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT00345,Clearance Deal,SMS,No Action,2024-10-14
+CUST0059,Edward,Reyes,renee.smith.cust0059@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT00172,Clearance Deal,Email,Purchased,2024-01-12
+CUST0060,Rebecca,Silva,michele.james.cust0060@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT01213,Summer Sale,Social Media,Purchased,2024-03-23
+CUST0060,Rebecca,Silva,michele.james.cust0060@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00130,Summer Sale,App Notification,No Action,2024-04-23
+CUST0060,Rebecca,Silva,michele.james.cust0060@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00679,New Arrival,Email,No Action,2024-01-08
+CUST0060,Rebecca,Silva,michele.james.cust0060@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT01213,Summer Sale,Social Media,Purchased,2024-05-13
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT01156,Clearance Deal,SMS,Purchased,2024-03-23
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00995,Clearance Deal,Email,Purchased,2024-02-08
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00167,Summer Sale,Social Media,Purchased,2024-01-11
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00167,Summer Sale,Social Media,Purchased,2024-10-06
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT01156,Clearance Deal,SMS,Purchased,2024-07-10
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00995,Clearance Deal,Email,Purchased,2024-09-12
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00167,Summer Sale,Social Media,Purchased,2024-02-24
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00995,Clearance Deal,Email,Purchased,2024-07-18
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00167,Summer Sale,Social Media,Purchased,2024-09-10
+CUST0061,Amanda,Navarro,kathleen.padilla.cust0061@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00167,Summer Sale,Social Media,Purchased,2024-08-14
+CUST0062,Jennifer,Pittman,ashlee.sparks.cust0062@example.com,Waterford,Munster,52.2593,-7.1101,High Value,30,Low,INT01063,Summer Sale,Email,Purchased,2024-01-19
+CUST0062,Jennifer,Pittman,ashlee.sparks.cust0062@example.com,Waterford,Munster,52.2593,-7.1101,High Value,30,Low,INT00790,New Arrival,Social Media,No Action,2024-07-17
+CUST0062,Jennifer,Pittman,ashlee.sparks.cust0062@example.com,Waterford,Munster,52.2593,-7.1101,High Value,30,Low,INT01080,Summer Sale,Email,No Action,2024-04-24
+CUST0063,Hunter,Green,rachel.byrd.cust0063@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT01484,Summer Sale,SMS,No Action,2024-04-08
+CUST0063,Hunter,Green,rachel.byrd.cust0063@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT01484,Summer Sale,SMS,No Action,2024-11-20
+CUST0063,Hunter,Green,rachel.byrd.cust0063@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT01484,Summer Sale,SMS,No Action,2024-07-24
+CUST0063,Hunter,Green,rachel.byrd.cust0063@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT00916,New Arrival,SMS,Purchased,2024-03-06
+CUST0063,Hunter,Green,rachel.byrd.cust0063@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT01484,Summer Sale,SMS,No Action,2024-10-12
+CUST0065,Amber,Cooke,karla.saunders.cust0065@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00468,Clearance Deal,Email,Purchased,2024-07-20
+CUST0065,Amber,Cooke,karla.saunders.cust0065@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT01125,Loyalty Bonus,SMS,Purchased,2024-01-15
+CUST0065,Amber,Cooke,karla.saunders.cust0065@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00612,Clearance Deal,App Notification,No Action,2024-12-22
+CUST0066,Billy,Johnson,julie.thompson.cust0066@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,30,Low,INT00293,Summer Sale,App Notification,No Action,2024-11-23
+CUST0066,Billy,Johnson,julie.thompson.cust0066@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,30,Low,INT00419,Clearance Deal,Email,No Action,2024-01-15
+CUST0067,Anne,Robinson,donald.levy.cust0067@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,70,Medium,INT00794,Clearance Deal,Social Media,Purchased,2024-03-09
+CUST0067,Anne,Robinson,donald.levy.cust0067@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,70,Medium,INT00201,Summer Sale,Social Media,No Action,2024-08-21
+CUST0067,Anne,Robinson,donald.levy.cust0067@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,70,Medium,INT01027,New Arrival,App Notification,Purchased,2024-07-22
+CUST0068,Tami,Rodriguez,emily.ruiz.cust0068@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00121,Clearance Deal,App Notification,No Action,2024-09-09
+CUST0068,Tami,Rodriguez,emily.ruiz.cust0068@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00241,Clearance Deal,Social Media,Purchased,2024-08-23
+CUST0068,Tami,Rodriguez,emily.ruiz.cust0068@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00619,New Arrival,SMS,No Action,2024-02-15
+CUST0069,Curtis,Barton,wendy.wilson.cust0069@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00469,New Arrival,Email,Purchased,2024-12-15
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00481,Summer Sale,SMS,Purchased,2024-04-15
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01273,Summer Sale,SMS,Purchased,2024-01-17
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01273,Summer Sale,SMS,Purchased,2024-03-19
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00481,Summer Sale,SMS,Purchased,2024-01-22
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01257,Summer Sale,App Notification,No Action,2024-06-12
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01273,Summer Sale,SMS,Purchased,2024-02-23
+CUST0070,Melissa,Short,hannah.robinson.cust0070@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00481,Summer Sale,SMS,Purchased,2024-08-18
+CUST0071,Tammy,Nelson,stacy.holloway.cust0071@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT01068,Clearance Deal,Email,Purchased,2024-06-15
+CUST0071,Tammy,Nelson,stacy.holloway.cust0071@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT00483,Summer Sale,SMS,No Action,2024-09-08
+CUST0071,Tammy,Nelson,stacy.holloway.cust0071@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT01382,Summer Sale,Social Media,Purchased,2024-09-07
+CUST0071,Tammy,Nelson,stacy.holloway.cust0071@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT01448,Clearance Deal,Email,Purchased,2024-03-05
+CUST0071,Tammy,Nelson,stacy.holloway.cust0071@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT01382,Summer Sale,Social Media,Purchased,2024-04-13
+CUST0072,Joseph,Christian,brenda.li.cust0072@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00965,Summer Sale,App Notification,Purchased,2024-11-14
+CUST0072,Joseph,Christian,brenda.li.cust0072@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00375,New Arrival,Email,Purchased,2024-08-14
+CUST0072,Joseph,Christian,brenda.li.cust0072@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00375,New Arrival,Email,Purchased,2024-01-23
+CUST0072,Joseph,Christian,brenda.li.cust0072@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00375,New Arrival,Email,Purchased,2024-04-11
+CUST0072,Joseph,Christian,brenda.li.cust0072@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00375,New Arrival,Email,Purchased,2024-04-11
+CUST0072,Joseph,Christian,brenda.li.cust0072@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00455,Loyalty Bonus,Email,No Action,2024-08-12
+CUST0073,Hunter,Lewis,david.howard.cust0073@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,40,Low,INT01015,Clearance Deal,SMS,No Action,2024-01-05
+CUST0073,Hunter,Lewis,david.howard.cust0073@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,40,Low,INT00535,Loyalty Bonus,Social Media,No Action,2024-10-05
+CUST0073,Hunter,Lewis,david.howard.cust0073@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,40,Low,INT00185,Summer Sale,SMS,Purchased,2024-04-13
+CUST0074,Alejandro,Vaughan,kimberly.palmer.cust0074@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00853,Loyalty Bonus,Email,Purchased,2024-06-19
+CUST0074,Alejandro,Vaughan,kimberly.palmer.cust0074@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00474,Clearance Deal,Social Media,Purchased,2024-01-11
+CUST0074,Alejandro,Vaughan,kimberly.palmer.cust0074@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00113,New Arrival,Email,Purchased,2024-03-12
+CUST0074,Alejandro,Vaughan,kimberly.palmer.cust0074@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00113,New Arrival,Email,Purchased,2024-02-07
+CUST0074,Alejandro,Vaughan,kimberly.palmer.cust0074@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00474,Clearance Deal,Social Media,Purchased,2024-06-06
+CUST0074,Alejandro,Vaughan,kimberly.palmer.cust0074@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01127,Clearance Deal,Email,No Action,2024-01-19
+CUST0075,Shane,Smith,eddie.martinez.cust0075@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,50,Low,INT00699,Clearance Deal,SMS,No Action,2024-03-11
+CUST0075,Shane,Smith,eddie.martinez.cust0075@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,50,Low,INT00652,Summer Sale,SMS,No Action,2024-06-23
+CUST0076,Bonnie,Kennedy,matthew.chavez.cust0076@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT00384,Clearance Deal,App Notification,Purchased,2024-04-18
+CUST0077,Michael,Chavez,angela.willis.cust0077@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,60,Medium,INT01007,New Arrival,Social Media,Purchased,2024-02-21
+CUST0077,Michael,Chavez,angela.willis.cust0077@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,60,Medium,INT00877,Loyalty Bonus,App Notification,No Action,2024-05-18
+CUST0077,Michael,Chavez,angela.willis.cust0077@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,60,Medium,INT00169,New Arrival,Email,Purchased,2024-07-16
+CUST0077,Michael,Chavez,angela.willis.cust0077@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,60,Medium,INT00047,Clearance Deal,App Notification,No Action,2024-11-09
+CUST0077,Michael,Chavez,angela.willis.cust0077@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,60,Medium,INT01326,New Arrival,Social Media,Purchased,2024-11-22
+CUST0077,Michael,Chavez,angela.willis.cust0077@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,60,Medium,INT00047,Clearance Deal,App Notification,No Action,2024-10-16
+CUST0078,Julia,Tapia,michael.hawkins.cust0078@example.com,Limerick,Munster,52.6638,-8.6267,High Value,70,Medium,INT00886,Clearance Deal,Social Media,Purchased,2024-04-17
+CUST0078,Julia,Tapia,michael.hawkins.cust0078@example.com,Limerick,Munster,52.6638,-8.6267,High Value,70,Medium,INT00886,Clearance Deal,Social Media,Purchased,2024-07-23
+CUST0079,Marissa,Phillips,kathryn.dorsey.cust0079@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00464,Loyalty Bonus,SMS,Purchased,2024-04-20
+CUST0079,Marissa,Phillips,kathryn.dorsey.cust0079@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00102,Summer Sale,Social Media,Purchased,2024-08-22
+CUST0079,Marissa,Phillips,kathryn.dorsey.cust0079@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00656,Loyalty Bonus,Social Media,Purchased,2024-01-20
+CUST0079,Marissa,Phillips,kathryn.dorsey.cust0079@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00656,Loyalty Bonus,Social Media,Purchased,2024-03-24
+CUST0079,Marissa,Phillips,kathryn.dorsey.cust0079@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00656,Loyalty Bonus,Social Media,Purchased,2024-09-23
+CUST0080,Joshua,Mccann,shelly.carlson.cust0080@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00011,Clearance Deal,Email,No Action,2024-10-05
+CUST0081,Monique,Andrews,william.reed.cust0081@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01286,Clearance Deal,SMS,Purchased,2024-03-17
+CUST0081,Monique,Andrews,william.reed.cust0081@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01103,New Arrival,App Notification,Purchased,2024-04-14
+CUST0081,Monique,Andrews,william.reed.cust0081@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01208,New Arrival,Email,No Action,2024-06-08
+CUST0081,Monique,Andrews,william.reed.cust0081@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00170,Loyalty Bonus,Email,Purchased,2024-03-14
+CUST0082,Johnny,Hensley,derrick.scott.cust0082@example.com,Galway,Connacht,53.2707,-9.0568,High Value,50,Low,INT01184,Summer Sale,SMS,No Action,2024-03-12
+CUST0083,Christopher,Wright,michelle.johnston.cust0083@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,80,High,INT00827,Clearance Deal,Email,No Action,2024-05-11
+CUST0083,Christopher,Wright,michelle.johnston.cust0083@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,80,High,INT01370,Loyalty Bonus,Email,Purchased,2024-04-11
+CUST0085,Cory,Farmer,jessica.fuentes.cust0085@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT00056,Loyalty Bonus,Social Media,Purchased,2024-10-05
+CUST0086,Ricky,Norris,leslie.gonzales.cust0086@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00668,Clearance Deal,Social Media,No Action,2024-07-19
+CUST0086,Ricky,Norris,leslie.gonzales.cust0086@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00585,Loyalty Bonus,SMS,Purchased,2024-05-21
+CUST0086,Ricky,Norris,leslie.gonzales.cust0086@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00585,Loyalty Bonus,SMS,Purchased,2024-05-14
+CUST0086,Ricky,Norris,leslie.gonzales.cust0086@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00668,Clearance Deal,Social Media,No Action,2024-05-15
+CUST0086,Ricky,Norris,leslie.gonzales.cust0086@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00585,Loyalty Bonus,SMS,Purchased,2024-04-21
+CUST0086,Ricky,Norris,leslie.gonzales.cust0086@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00681,New Arrival,SMS,No Action,2024-02-15
+CUST0087,Michele,Jones,deanna.madden.cust0087@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT00600,Clearance Deal,Social Media,Purchased,2024-08-22
+CUST0087,Michele,Jones,deanna.madden.cust0087@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT01085,Summer Sale,SMS,Purchased,2024-03-19
+CUST0087,Michele,Jones,deanna.madden.cust0087@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT01085,Summer Sale,SMS,Purchased,2024-07-13
+CUST0088,Rebekah,Serrano,toni.miller.cust0088@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,80,High,INT01039,Summer Sale,SMS,Purchased,2024-03-24
+CUST0088,Rebekah,Serrano,toni.miller.cust0088@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,80,High,INT01279,New Arrival,Email,No Action,2024-03-10
+CUST0088,Rebekah,Serrano,toni.miller.cust0088@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,80,High,INT00287,Loyalty Bonus,SMS,No Action,2024-12-11
+CUST0088,Rebekah,Serrano,toni.miller.cust0088@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,80,High,INT01279,New Arrival,Email,No Action,2024-06-19
+CUST0089,Haley,Lyons,kristina.holland.cust0089@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01077,Summer Sale,Email,No Action,2024-04-16
+CUST0090,Pamela,Navarro,angelica.schneider.cust0090@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00638,Summer Sale,App Notification,Purchased,2024-07-14
+CUST0090,Pamela,Navarro,angelica.schneider.cust0090@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01135,Loyalty Bonus,Social Media,No Action,2024-08-18
+CUST0091,Brenda,Smith,matthew.miranda.cust0091@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT01207,Loyalty Bonus,App Notification,Purchased,2024-07-06
+CUST0091,Brenda,Smith,matthew.miranda.cust0091@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT01183,Summer Sale,Email,No Action,2024-05-15
+CUST0091,Brenda,Smith,matthew.miranda.cust0091@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT00354,Loyalty Bonus,App Notification,Purchased,2024-01-22
+CUST0091,Brenda,Smith,matthew.miranda.cust0091@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT00354,Loyalty Bonus,App Notification,Purchased,2024-11-12
+CUST0091,Brenda,Smith,matthew.miranda.cust0091@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT00354,Loyalty Bonus,App Notification,Purchased,2024-03-09
+CUST0091,Brenda,Smith,matthew.miranda.cust0091@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,80,High,INT00354,Loyalty Bonus,App Notification,Purchased,2024-08-21
+CUST0092,Denise,Moon,christine.harper.cust0092@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00849,Summer Sale,App Notification,No Action,2024-11-10
+CUST0092,Denise,Moon,christine.harper.cust0092@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00849,Summer Sale,App Notification,No Action,2024-02-05
+CUST0092,Denise,Moon,christine.harper.cust0092@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00213,Loyalty Bonus,SMS,No Action,2024-03-05
+CUST0092,Denise,Moon,christine.harper.cust0092@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT01110,Loyalty Bonus,Social Media,Purchased,2024-07-14
+CUST0092,Denise,Moon,christine.harper.cust0092@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00841,Clearance Deal,Social Media,Purchased,2024-08-11
+CUST0092,Denise,Moon,christine.harper.cust0092@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00841,Clearance Deal,Social Media,Purchased,2024-12-05
+CUST0093,Manuel,Garcia,cheryl.goodwin.cust0093@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,50,Low,INT00752,New Arrival,Social Media,Purchased,2024-06-22
+CUST0093,Manuel,Garcia,cheryl.goodwin.cust0093@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,50,Low,INT00644,New Arrival,App Notification,Purchased,2024-07-10
+CUST0093,Manuel,Garcia,cheryl.goodwin.cust0093@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,50,Low,INT00752,New Arrival,Social Media,Purchased,2024-12-15
+CUST0093,Manuel,Garcia,cheryl.goodwin.cust0093@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,50,Low,INT00752,New Arrival,Social Media,Purchased,2024-06-19
+CUST0093,Manuel,Garcia,cheryl.goodwin.cust0093@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,50,Low,INT00496,Summer Sale,Social Media,No Action,2024-03-12
+CUST0093,Manuel,Garcia,cheryl.goodwin.cust0093@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,50,Low,INT01140,Clearance Deal,Social Media,Purchased,2024-02-24
+CUST0094,Christopher,King,lisa.solis.cust0094@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00268,Loyalty Bonus,App Notification,No Action,2024-02-12
+CUST0095,Michael,Avila,christopher.lozano.cust0095@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00807,New Arrival,Social Media,Purchased,2024-02-12
+CUST0095,Michael,Avila,christopher.lozano.cust0095@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00803,New Arrival,App Notification,Purchased,2024-01-20
+CUST0096,Samuel,Wolfe,benjamin.lowery.cust0096@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00506,Clearance Deal,App Notification,No Action,2024-05-24
+CUST0096,Samuel,Wolfe,benjamin.lowery.cust0096@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00060,Clearance Deal,SMS,No Action,2024-09-17
+CUST0097,Alexander,Russell,david.allen.cust0097@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00456,New Arrival,SMS,Purchased,2024-05-10
+CUST0098,William,Hill,michael.duncan.cust0098@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00949,Loyalty Bonus,Email,Purchased,2024-02-10
+CUST0098,William,Hill,michael.duncan.cust0098@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00964,Loyalty Bonus,SMS,Purchased,2024-12-08
+CUST0098,William,Hill,michael.duncan.cust0098@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00103,New Arrival,Email,Purchased,2024-02-09
+CUST0098,William,Hill,michael.duncan.cust0098@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00964,Loyalty Bonus,SMS,Purchased,2024-10-19
+CUST0099,Patrick,Weeks,allen.kramer.cust0099@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00772,Clearance Deal,Email,Purchased,2024-09-11
+CUST0099,Patrick,Weeks,allen.kramer.cust0099@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00159,Clearance Deal,SMS,Purchased,2024-10-23
+CUST0100,Lori,Campbell,kelly.williams.cust0100@example.com,Waterford,Munster,52.2593,-7.1101,High Value,60,Medium,INT01260,Clearance Deal,SMS,No Action,2024-09-24
+CUST0101,Danielle,Johnson,martin.martinez.cust0101@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT00394,Clearance Deal,Social Media,Purchased,2024-02-06
+CUST0101,Danielle,Johnson,martin.martinez.cust0101@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT00394,Clearance Deal,Social Media,Purchased,2024-10-23
+CUST0102,Joy,Gardner,carrie.short.cust0102@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT01223,Summer Sale,SMS,No Action,2024-02-23
+CUST0103,Carolyn,Hoffman,whitney.hill.cust0103@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00846,Clearance Deal,App Notification,No Action,2024-05-08
+CUST0103,Carolyn,Hoffman,whitney.hill.cust0103@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00846,Clearance Deal,App Notification,No Action,2024-07-07
+CUST0103,Carolyn,Hoffman,whitney.hill.cust0103@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00846,Clearance Deal,App Notification,No Action,2024-02-20
+CUST0103,Carolyn,Hoffman,whitney.hill.cust0103@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT01238,Summer Sale,App Notification,Purchased,2024-01-21
+CUST0103,Carolyn,Hoffman,whitney.hill.cust0103@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00846,Clearance Deal,App Notification,No Action,2024-01-22
+CUST0103,Carolyn,Hoffman,whitney.hill.cust0103@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00158,New Arrival,SMS,Purchased,2024-11-20
+CUST0104,Katherine,Moore,antonio.hernandez.cust0104@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00942,Clearance Deal,Email,Purchased,2024-03-13
+CUST0105,Christopher,Davis,paul.hoffman.cust0105@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,40,Low,INT01447,Loyalty Bonus,Email,Purchased,2024-04-06
+CUST0106,Teresa,Gray,gerald.reeves.cust0106@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,30,Low,INT00122,New Arrival,App Notification,No Action,2024-04-17
+CUST0106,Teresa,Gray,gerald.reeves.cust0106@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,30,Low,INT00179,Clearance Deal,App Notification,Purchased,2024-02-09
+CUST0106,Teresa,Gray,gerald.reeves.cust0106@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,30,Low,INT01126,Summer Sale,Email,Purchased,2024-09-22
+CUST0106,Teresa,Gray,gerald.reeves.cust0106@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,30,Low,INT00395,Clearance Deal,Email,Purchased,2024-06-13
+CUST0106,Teresa,Gray,gerald.reeves.cust0106@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,30,Low,INT01126,Summer Sale,Email,Purchased,2024-01-11
+CUST0106,Teresa,Gray,gerald.reeves.cust0106@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,30,Low,INT01126,Summer Sale,Email,Purchased,2024-06-10
+CUST0107,Jeremy,Roberts,david.harris.cust0107@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00322,Clearance Deal,Email,Purchased,2024-05-16
+CUST0107,Jeremy,Roberts,david.harris.cust0107@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00036,Clearance Deal,App Notification,Purchased,2024-09-24
+CUST0107,Jeremy,Roberts,david.harris.cust0107@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00322,Clearance Deal,Email,Purchased,2024-08-08
+CUST0107,Jeremy,Roberts,david.harris.cust0107@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00322,Clearance Deal,Email,Purchased,2024-02-20
+CUST0107,Jeremy,Roberts,david.harris.cust0107@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00036,Clearance Deal,App Notification,Purchased,2024-10-19
+CUST0107,Jeremy,Roberts,david.harris.cust0107@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00322,Clearance Deal,Email,Purchased,2024-10-10
+CUST0108,Michael,Santiago,kyle.key.cust0108@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00156,New Arrival,SMS,Purchased,2024-04-05
+CUST0108,Michael,Santiago,kyle.key.cust0108@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00669,Summer Sale,SMS,No Action,2024-02-22
+CUST0108,Michael,Santiago,kyle.key.cust0108@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00669,Summer Sale,SMS,No Action,2024-03-09
+CUST0108,Michael,Santiago,kyle.key.cust0108@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00156,New Arrival,SMS,Purchased,2024-02-08
+CUST0108,Michael,Santiago,kyle.key.cust0108@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT01462,Clearance Deal,SMS,Purchased,2024-06-06
+CUST0109,Jeffrey,Nguyen,andrea.matthews.cust0109@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00451,Clearance Deal,App Notification,No Action,2024-09-16
+CUST0109,Jeffrey,Nguyen,andrea.matthews.cust0109@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00996,Clearance Deal,SMS,Purchased,2024-07-23
+CUST0110,Nancy,Edwards,stacey.stone.cust0110@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT01073,Loyalty Bonus,Social Media,Purchased,2024-01-19
+CUST0111,Douglas,Taylor,danielle.vargas.cust0111@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT00083,New Arrival,App Notification,Purchased,2024-07-10
+CUST0111,Douglas,Taylor,danielle.vargas.cust0111@example.com,Cork,Munster,51.8985,-8.4756,Regular,70,Medium,INT01250,Clearance Deal,Email,Purchased,2024-04-05
+CUST0112,Jeffrey,Bright,danielle.jimenez.cust0112@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT01359,Clearance Deal,SMS,Purchased,2024-11-08
+CUST0112,Jeffrey,Bright,danielle.jimenez.cust0112@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT01359,Clearance Deal,SMS,Purchased,2024-06-16
+CUST0112,Jeffrey,Bright,danielle.jimenez.cust0112@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00857,New Arrival,Email,No Action,2024-10-21
+CUST0113,Courtney,Conner,larry.higgins.cust0113@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,80,High,INT00768,Clearance Deal,Email,Purchased,2024-10-20
+CUST0113,Courtney,Conner,larry.higgins.cust0113@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,80,High,INT01165,Summer Sale,Social Media,No Action,2024-06-18
+CUST0114,Allison,Maddox,kelly.cruz.cust0114@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,70,Medium,INT01321,Clearance Deal,App Notification,No Action,2024-09-17
+CUST0114,Allison,Maddox,kelly.cruz.cust0114@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,70,Medium,INT01321,Clearance Deal,App Notification,No Action,2024-10-14
+CUST0114,Allison,Maddox,kelly.cruz.cust0114@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,70,Medium,INT01321,Clearance Deal,App Notification,No Action,2024-02-11
+CUST0116,Kenneth,Fowler,nicole.luna.cust0116@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,60,Medium,INT00505,Clearance Deal,Social Media,Purchased,2024-03-09
+CUST0116,Kenneth,Fowler,nicole.luna.cust0116@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,60,Medium,INT01466,Clearance Deal,App Notification,No Action,2024-01-18
+CUST0116,Kenneth,Fowler,nicole.luna.cust0116@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,60,Medium,INT00908,New Arrival,Email,No Action,2024-06-20
+CUST0116,Kenneth,Fowler,nicole.luna.cust0116@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,60,Medium,INT00505,Clearance Deal,Social Media,Purchased,2024-06-09
+CUST0117,Sarah,Koch,kathy.ramirez.cust0117@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT01232,Clearance Deal,Social Media,No Action,2024-11-19
+CUST0117,Sarah,Koch,kathy.ramirez.cust0117@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT01232,Clearance Deal,Social Media,No Action,2024-01-16
+CUST0118,Christopher,Tucker,stephen.obrien.cust0118@example.com,Waterford,Munster,52.2593,-7.1101,High Value,30,Low,INT01228,Clearance Deal,App Notification,Purchased,2024-09-23
+CUST0120,Brianna,Hall,stacy.rodriguez.cust0120@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,60,Medium,INT01010,New Arrival,App Notification,Purchased,2024-09-17
+CUST0120,Brianna,Hall,stacy.rodriguez.cust0120@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,60,Medium,INT00692,Clearance Deal,SMS,No Action,2024-12-21
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00642,Clearance Deal,Email,Purchased,2024-01-18
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00642,Clearance Deal,Email,Purchased,2024-05-22
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT01216,New Arrival,SMS,Purchased,2024-05-18
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT01154,Clearance Deal,App Notification,Purchased,2024-01-19
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00642,Clearance Deal,Email,Purchased,2024-07-14
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00334,Summer Sale,SMS,No Action,2024-11-05
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00438,New Arrival,App Notification,Purchased,2024-01-17
+CUST0121,Chad,Young,mark.bates.cust0121@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00642,Clearance Deal,Email,Purchased,2024-01-10
+CUST0122,Barbara,Sanchez,shelly.hendrix.cust0122@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00663,Loyalty Bonus,App Notification,Purchased,2024-08-20
+CUST0122,Barbara,Sanchez,shelly.hendrix.cust0122@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT01234,Summer Sale,SMS,No Action,2024-12-15
+CUST0123,Ryan,Henderson,bobby.moses.cust0123@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT00312,Clearance Deal,App Notification,No Action,2024-02-13
+CUST0123,Ryan,Henderson,bobby.moses.cust0123@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT01363,Summer Sale,Email,Purchased,2024-06-22
+CUST0123,Ryan,Henderson,bobby.moses.cust0123@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT00971,New Arrival,SMS,No Action,2024-11-17
+CUST0124,Bruce,Chandler,dana.williams.cust0124@example.com,Waterford,Munster,52.2593,-7.1101,High Value,60,Medium,INT00742,New Arrival,Email,Purchased,2024-10-06
+CUST0124,Bruce,Chandler,dana.williams.cust0124@example.com,Waterford,Munster,52.2593,-7.1101,High Value,60,Medium,INT00742,New Arrival,Email,Purchased,2024-10-13
+CUST0125,John,Leblanc,thomas.gonzalez.cust0125@example.com,Galway,Connacht,53.2707,-9.0568,Regular,80,High,INT01024,New Arrival,App Notification,Purchased,2024-01-16
+CUST0126,Tanya,House,nicole.thompson.cust0126@example.com,Galway,Connacht,53.2707,-9.0568,High Value,50,Low,INT00191,Clearance Deal,Social Media,Purchased,2024-06-22
+CUST0126,Tanya,House,nicole.thompson.cust0126@example.com,Galway,Connacht,53.2707,-9.0568,High Value,50,Low,INT00550,New Arrival,Social Media,Purchased,2024-08-18
+CUST0127,Tricia,Baker,justin.hays.cust0127@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT01317,New Arrival,Social Media,Purchased,2024-06-15
+CUST0127,Tricia,Baker,justin.hays.cust0127@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,60,Medium,INT01316,Summer Sale,Email,Purchased,2024-06-20
+CUST0129,Susan,Miller,joseph.rivera.cust0129@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00871,Clearance Deal,Email,No Action,2024-02-22
+CUST0129,Susan,Miller,joseph.rivera.cust0129@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT01194,New Arrival,Social Media,No Action,2024-06-17
+CUST0129,Susan,Miller,joseph.rivera.cust0129@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00771,Summer Sale,Email,No Action,2024-04-24
+CUST0129,Susan,Miller,joseph.rivera.cust0129@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT01194,New Arrival,Social Media,No Action,2024-11-08
+CUST0129,Susan,Miller,joseph.rivera.cust0129@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00771,Summer Sale,Email,No Action,2024-08-05
+CUST0129,Susan,Miller,joseph.rivera.cust0129@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00771,Summer Sale,Email,No Action,2024-08-18
+CUST0130,Beth,Williams,kayla.vaughn.cust0130@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00618,Clearance Deal,Email,No Action,2024-03-13
+CUST0131,John,Foster,amanda.beck.cust0131@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00734,Loyalty Bonus,SMS,Purchased,2024-04-15
+CUST0132,Albert,Howell,maria.leach.cust0132@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT00826,Summer Sale,Email,Purchased,2024-12-17
+CUST0132,Albert,Howell,maria.leach.cust0132@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT00624,Clearance Deal,Email,No Action,2024-08-20
+CUST0132,Albert,Howell,maria.leach.cust0132@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT00624,Clearance Deal,Email,No Action,2024-01-18
+CUST0133,Mike,Moore,lindsey.chavez.cust0133@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,50,Low,INT00264,Loyalty Bonus,SMS,No Action,2024-02-20
+CUST0133,Mike,Moore,lindsey.chavez.cust0133@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,50,Low,INT00837,Summer Sale,App Notification,Purchased,2024-03-18
+CUST0133,Mike,Moore,lindsey.chavez.cust0133@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,50,Low,INT00837,Summer Sale,App Notification,Purchased,2024-02-12
+CUST0133,Mike,Moore,lindsey.chavez.cust0133@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,50,Low,INT00864,Loyalty Bonus,SMS,No Action,2024-06-23
+CUST0133,Mike,Moore,lindsey.chavez.cust0133@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,50,Low,INT00864,Loyalty Bonus,SMS,No Action,2024-01-23
+CUST0133,Mike,Moore,lindsey.chavez.cust0133@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,50,Low,INT00837,Summer Sale,App Notification,Purchased,2024-02-16
+CUST0134,Dale,Humphrey,melvin.brown.cust0134@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00595,Summer Sale,App Notification,Purchased,2024-09-20
+CUST0134,Dale,Humphrey,melvin.brown.cust0134@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00595,Summer Sale,App Notification,Purchased,2024-11-07
+CUST0134,Dale,Humphrey,melvin.brown.cust0134@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00639,Clearance Deal,Social Media,No Action,2024-03-11
+CUST0135,Joseph,Jacobs,molly.knox.cust0135@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00698,Clearance Deal,App Notification,Purchased,2024-05-06
+CUST0135,Joseph,Jacobs,molly.knox.cust0135@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00698,Clearance Deal,App Notification,Purchased,2024-03-08
+CUST0135,Joseph,Jacobs,molly.knox.cust0135@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00698,Clearance Deal,App Notification,Purchased,2024-01-07
+CUST0136,Tracy,Whitehead,mary.avila.cust0136@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00840,Clearance Deal,Social Media,Purchased,2024-01-14
+CUST0137,Evan,Ramos,katie.stephenson.cust0137@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT00885,Loyalty Bonus,SMS,Purchased,2024-08-22
+CUST0137,Evan,Ramos,katie.stephenson.cust0137@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT00731,New Arrival,Social Media,Purchased,2024-02-14
+CUST0137,Evan,Ramos,katie.stephenson.cust0137@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT00731,New Arrival,Social Media,Purchased,2024-07-08
+CUST0137,Evan,Ramos,katie.stephenson.cust0137@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,60,Medium,INT00731,New Arrival,Social Media,Purchased,2024-06-22
+CUST0138,Rebecca,Gardner,karen.parsons.cust0138@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00517,Loyalty Bonus,Social Media,Purchased,2024-01-23
+CUST0138,Rebecca,Gardner,karen.parsons.cust0138@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00517,Loyalty Bonus,Social Media,Purchased,2024-06-09
+CUST0139,Rachel,Flynn,valerie.boyd.cust0139@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT01407,New Arrival,Social Media,Purchased,2024-09-21
+CUST0139,Rachel,Flynn,valerie.boyd.cust0139@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT01129,New Arrival,Email,No Action,2024-09-09
+CUST0139,Rachel,Flynn,valerie.boyd.cust0139@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT01264,Loyalty Bonus,SMS,Purchased,2024-02-10
+CUST0139,Rachel,Flynn,valerie.boyd.cust0139@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT00730,Summer Sale,App Notification,No Action,2024-08-18
+CUST0140,Terri,Brady,patrick.warren.cust0140@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00168,Clearance Deal,Email,Purchased,2024-02-24
+CUST0140,Terri,Brady,patrick.warren.cust0140@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00072,Loyalty Bonus,SMS,Purchased,2024-05-20
+CUST0140,Terri,Brady,patrick.warren.cust0140@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00168,Clearance Deal,Email,Purchased,2024-02-19
+CUST0140,Terri,Brady,patrick.warren.cust0140@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00168,Clearance Deal,Email,Purchased,2024-03-08
+CUST0141,Kimberly,Jenkins,paul.scott.cust0141@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00171,Summer Sale,Email,No Action,2024-02-17
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00817,Loyalty Bonus,Social Media,Purchased,2024-10-05
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00830,Loyalty Bonus,SMS,No Action,2024-04-07
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT01474,Clearance Deal,App Notification,No Action,2024-06-24
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00161,Loyalty Bonus,SMS,No Action,2024-04-17
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT01171,Clearance Deal,Email,No Action,2024-12-23
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00830,Loyalty Bonus,SMS,No Action,2024-07-09
+CUST0142,Lisa,Stevens,susan.smith.cust0142@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00830,Loyalty Bonus,SMS,No Action,2024-11-06
+CUST0143,Mark,Lin,michael.andrade.cust0143@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01310,New Arrival,App Notification,Purchased,2024-01-08
+CUST0144,Sheila,Wilson,robert.hernandez.cust0144@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT00048,Summer Sale,Social Media,Purchased,2024-08-20
+CUST0144,Sheila,Wilson,robert.hernandez.cust0144@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT00542,Clearance Deal,Email,No Action,2024-07-08
+CUST0144,Sheila,Wilson,robert.hernandez.cust0144@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT01272,Loyalty Bonus,SMS,Purchased,2024-01-18
+CUST0144,Sheila,Wilson,robert.hernandez.cust0144@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT00621,New Arrival,Email,Purchased,2024-02-09
+CUST0145,Daniel,Hamilton,gary.cortez.cust0145@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00288,Clearance Deal,Email,No Action,2024-08-14
+CUST0145,Daniel,Hamilton,gary.cortez.cust0145@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00435,New Arrival,Social Media,Purchased,2024-05-24
+CUST0145,Daniel,Hamilton,gary.cortez.cust0145@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00288,Clearance Deal,Email,No Action,2024-06-19
+CUST0146,Paul,Ray,jesse.mann.cust0146@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,30,Low,INT01191,Summer Sale,Email,No Action,2024-05-14
+CUST0146,Paul,Ray,jesse.mann.cust0146@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,30,Low,INT01191,Summer Sale,Email,No Action,2024-09-19
+CUST0147,Gloria,Bentley,alexander.moreno.cust0147@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT00160,New Arrival,Social Media,No Action,2024-09-09
+CUST0148,William,Estrada,christine.king.cust0148@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00704,Clearance Deal,App Notification,No Action,2024-01-21
+CUST0148,William,Estrada,christine.king.cust0148@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00465,Clearance Deal,Email,No Action,2024-05-15
+CUST0149,James,Ortega,desiree.garrison.cust0149@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT00940,New Arrival,SMS,Purchased,2024-02-12
+CUST0149,James,Ortega,desiree.garrison.cust0149@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT00584,Summer Sale,SMS,No Action,2024-08-24
+CUST0149,James,Ortega,desiree.garrison.cust0149@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT00584,Summer Sale,SMS,No Action,2024-04-21
+CUST0150,Martha,Torres,rachel.schwartz.cust0150@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00604,Clearance Deal,SMS,Purchased,2024-12-16
+CUST0150,Martha,Torres,rachel.schwartz.cust0150@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00389,Summer Sale,App Notification,Purchased,2024-01-17
+CUST0150,Martha,Torres,rachel.schwartz.cust0150@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00389,Summer Sale,App Notification,Purchased,2024-09-17
+CUST0150,Martha,Torres,rachel.schwartz.cust0150@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00604,Clearance Deal,SMS,Purchased,2024-04-05
+CUST0151,Thomas,Santana,anne.knight.cust0151@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00421,Clearance Deal,App Notification,No Action,2024-03-21
+CUST0151,Thomas,Santana,anne.knight.cust0151@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00583,Summer Sale,Email,No Action,2024-05-23
+CUST0151,Thomas,Santana,anne.knight.cust0151@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00809,Clearance Deal,App Notification,Purchased,2024-02-20
+CUST0152,Jeffrey,Gonzalez,randy.ayala.cust0152@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01362,Summer Sale,Social Media,Purchased,2024-03-14
+CUST0152,Jeffrey,Gonzalez,randy.ayala.cust0152@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01404,New Arrival,App Notification,Purchased,2024-03-12
+CUST0152,Jeffrey,Gonzalez,randy.ayala.cust0152@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01404,New Arrival,App Notification,Purchased,2024-04-06
+CUST0152,Jeffrey,Gonzalez,randy.ayala.cust0152@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01284,Clearance Deal,App Notification,Purchased,2024-10-14
+CUST0152,Jeffrey,Gonzalez,randy.ayala.cust0152@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01362,Summer Sale,Social Media,Purchased,2024-07-07
+CUST0152,Jeffrey,Gonzalez,randy.ayala.cust0152@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01404,New Arrival,App Notification,Purchased,2024-05-23
+CUST0154,Adam,Potter,william.garcia.cust0154@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT00950,Clearance Deal,Email,Purchased,2024-10-07
+CUST0154,Adam,Potter,william.garcia.cust0154@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT00399,Clearance Deal,SMS,No Action,2024-04-09
+CUST0154,Adam,Potter,william.garcia.cust0154@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT00399,Clearance Deal,SMS,No Action,2024-07-23
+CUST0154,Adam,Potter,william.garcia.cust0154@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT00028,Clearance Deal,App Notification,Purchased,2024-04-09
+CUST0155,Stephen,Solis,joseph.thomas.cust0155@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00685,Summer Sale,SMS,Purchased,2024-05-12
+CUST0155,Stephen,Solis,joseph.thomas.cust0155@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00306,Clearance Deal,Social Media,No Action,2024-03-16
+CUST0155,Stephen,Solis,joseph.thomas.cust0155@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00085,Summer Sale,SMS,Purchased,2024-01-05
+CUST0155,Stephen,Solis,joseph.thomas.cust0155@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,60,Medium,INT00685,Summer Sale,SMS,Purchased,2024-05-09
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00923,Summer Sale,SMS,No Action,2024-05-07
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00923,Summer Sale,SMS,No Action,2024-02-21
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00923,Summer Sale,SMS,No Action,2024-10-23
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00923,Summer Sale,SMS,No Action,2024-08-18
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00591,Summer Sale,Email,No Action,2024-07-15
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00591,Summer Sale,Email,No Action,2024-06-16
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00923,Summer Sale,SMS,No Action,2024-09-11
+CUST0156,Ronald,Meadows,stacy.cook.cust0156@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00404,Clearance Deal,App Notification,No Action,2024-01-15
+CUST0157,Karen,Larsen,tanya.carter.cust0157@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT01369,New Arrival,Email,Purchased,2024-01-08
+CUST0158,Chris,Mitchell,jason.salinas.cust0158@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00066,Clearance Deal,SMS,No Action,2024-12-21
+CUST0158,Chris,Mitchell,jason.salinas.cust0158@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT01033,Loyalty Bonus,SMS,Purchased,2024-01-09
+CUST0158,Chris,Mitchell,jason.salinas.cust0158@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00978,Loyalty Bonus,SMS,No Action,2024-01-22
+CUST0158,Chris,Mitchell,jason.salinas.cust0158@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT01033,Loyalty Bonus,SMS,Purchased,2024-04-12
+CUST0158,Chris,Mitchell,jason.salinas.cust0158@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT01033,Loyalty Bonus,SMS,Purchased,2024-06-09
+CUST0159,Edward,Reyes,sandra.kane.cust0159@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00250,New Arrival,Social Media,Purchased,2024-12-18
+CUST0159,Edward,Reyes,sandra.kane.cust0159@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00110,New Arrival,App Notification,Purchased,2024-01-22
+CUST0159,Edward,Reyes,sandra.kane.cust0159@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00110,New Arrival,App Notification,Purchased,2024-02-17
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00153,New Arrival,App Notification,Purchased,2024-08-19
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00132,New Arrival,App Notification,Purchased,2024-08-22
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00153,New Arrival,App Notification,Purchased,2024-01-11
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00153,New Arrival,App Notification,Purchased,2024-11-20
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00194,Clearance Deal,Social Media,Purchased,2024-12-16
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00153,New Arrival,App Notification,Purchased,2024-03-17
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00149,Clearance Deal,Social Media,Purchased,2024-12-11
+CUST0160,Rebecca,Silva,daniel.garcia.cust0160@example.com,Galway,Connacht,53.2707,-9.0568,High Value,30,Low,INT00194,Clearance Deal,Social Media,Purchased,2024-04-14
+CUST0161,Amanda,Navarro,dan.perry.cust0161@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,50,Low,INT00753,New Arrival,App Notification,Purchased,2024-04-24
+CUST0162,Jennifer,Pittman,bradley.page.cust0162@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,80,High,INT00710,New Arrival,App Notification,Purchased,2024-09-10
+CUST0162,Jennifer,Pittman,bradley.page.cust0162@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,80,High,INT00069,Summer Sale,SMS,No Action,2024-10-09
+CUST0162,Jennifer,Pittman,bradley.page.cust0162@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,80,High,INT00069,Summer Sale,SMS,No Action,2024-04-21
+CUST0162,Jennifer,Pittman,bradley.page.cust0162@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,80,High,INT00032,Clearance Deal,Social Media,No Action,2024-03-11
+CUST0163,Hunter,Green,jesse.sullivan.cust0163@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,80,High,INT00398,Clearance Deal,App Notification,Purchased,2024-03-09
+CUST0163,Hunter,Green,jesse.sullivan.cust0163@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,80,High,INT00444,Clearance Deal,SMS,No Action,2024-03-06
+CUST0163,Hunter,Green,jesse.sullivan.cust0163@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,80,High,INT00398,Clearance Deal,App Notification,Purchased,2024-06-06
+CUST0165,Amber,Cooke,gerald.nunez.cust0165@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT01069,New Arrival,Email,Purchased,2024-08-10
+CUST0165,Amber,Cooke,gerald.nunez.cust0165@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT01467,Clearance Deal,Social Media,Purchased,2024-11-23
+CUST0165,Amber,Cooke,gerald.nunez.cust0165@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT00157,New Arrival,Email,No Action,2024-08-12
+CUST0166,Billy,Johnson,heather.dixon.cust0166@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,50,Low,INT00825,Loyalty Bonus,SMS,Purchased,2024-11-15
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT00276,Loyalty Bonus,Social Media,Purchased,2024-05-08
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT00301,Loyalty Bonus,Social Media,Purchased,2024-05-08
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT00301,Loyalty Bonus,Social Media,Purchased,2024-09-21
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT00276,Loyalty Bonus,Social Media,Purchased,2024-01-05
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT01231,New Arrival,SMS,No Action,2024-05-22
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT00301,Loyalty Bonus,Social Media,Purchased,2024-03-05
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT01062,Summer Sale,Social Media,Purchased,2024-04-14
+CUST0167,Anne,Robinson,michelle.crane.cust0167@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,40,Low,INT01221,New Arrival,Email,Purchased,2024-07-21
+CUST0168,Tami,Rodriguez,amanda.jackson.cust0168@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00112,New Arrival,App Notification,No Action,2024-10-16
+CUST0168,Tami,Rodriguez,amanda.jackson.cust0168@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT01318,Loyalty Bonus,Social Media,Purchased,2024-09-14
+CUST0168,Tami,Rodriguez,amanda.jackson.cust0168@example.com,Cork,Munster,51.8985,-8.4756,Regular,80,High,INT00367,Summer Sale,App Notification,Purchased,2024-09-18
+CUST0169,Curtis,Barton,kathleen.alexander.cust0169@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,60,Medium,INT00888,Clearance Deal,Email,No Action,2024-08-23
+CUST0170,Melissa,Short,lisa.clark.cust0170@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT00272,Summer Sale,Email,No Action,2024-01-08
+CUST0170,Melissa,Short,lisa.clark.cust0170@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT00039,Clearance Deal,Social Media,No Action,2024-08-24
+CUST0170,Melissa,Short,lisa.clark.cust0170@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT00272,Summer Sale,Email,No Action,2024-05-13
+CUST0170,Melissa,Short,lisa.clark.cust0170@example.com,Galway,Connacht,53.2707,-9.0568,Regular,30,Low,INT00272,Summer Sale,Email,No Action,2024-09-13
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00835,Loyalty Bonus,Social Media,No Action,2024-09-05
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00226,Summer Sale,Email,Purchased,2024-04-23
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00226,Summer Sale,Email,Purchased,2024-07-06
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01401,Summer Sale,Social Media,No Action,2024-08-12
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00921,New Arrival,Email,Purchased,2024-01-22
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00921,New Arrival,Email,Purchased,2024-11-05
+CUST0171,Tammy,Nelson,candice.jackson.cust0171@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00140,Summer Sale,SMS,Purchased,2024-10-15
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT00729,Loyalty Bonus,App Notification,Purchased,2024-06-24
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01195,Summer Sale,App Notification,Purchased,2024-04-10
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT00018,Clearance Deal,Email,No Action,2024-04-23
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01449,Summer Sale,App Notification,No Action,2024-11-07
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01266,Clearance Deal,SMS,No Action,2024-05-06
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT00018,Clearance Deal,Email,No Action,2024-11-05
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01195,Summer Sale,App Notification,Purchased,2024-09-23
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01420,New Arrival,App Notification,Purchased,2024-11-12
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT01266,Clearance Deal,SMS,No Action,2024-01-12
+CUST0172,Joseph,Christian,kathleen.lowe.cust0172@example.com,Waterford,Munster,52.2593,-7.1101,High Value,50,Low,INT00018,Clearance Deal,Email,No Action,2024-10-22
+CUST0173,Hunter,Lewis,aaron.schroeder.cust0173@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00749,Clearance Deal,Social Media,Purchased,2024-02-13
+CUST0173,Hunter,Lewis,aaron.schroeder.cust0173@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00990,New Arrival,Social Media,Purchased,2024-08-05
+CUST0173,Hunter,Lewis,aaron.schroeder.cust0173@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT00749,Clearance Deal,Social Media,Purchased,2024-02-20
+CUST0173,Hunter,Lewis,aaron.schroeder.cust0173@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,30,Low,INT01056,New Arrival,SMS,Purchased,2024-01-23
+CUST0174,Alejandro,Vaughan,matthew.lane.cust0174@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT00988,Clearance Deal,SMS,No Action,2024-03-24
+CUST0174,Alejandro,Vaughan,matthew.lane.cust0174@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT00051,New Arrival,App Notification,Purchased,2024-06-15
+CUST0174,Alejandro,Vaughan,matthew.lane.cust0174@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT00051,New Arrival,App Notification,Purchased,2024-07-07
+CUST0174,Alejandro,Vaughan,matthew.lane.cust0174@example.com,Cork,Munster,51.8985,-8.4756,Occasional,60,Medium,INT00197,Loyalty Bonus,Email,Purchased,2024-01-21
+CUST0175,Shane,Smith,wendy.blankenship.cust0175@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT00934,Summer Sale,SMS,No Action,2024-12-06
+CUST0175,Shane,Smith,wendy.blankenship.cust0175@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,70,Medium,INT00321,New Arrival,Email,Purchased,2024-12-05
+CUST0176,Bonnie,Kennedy,brett.garrett.cust0176@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,70,Medium,INT01281,New Arrival,SMS,No Action,2024-01-12
+CUST0176,Bonnie,Kennedy,brett.garrett.cust0176@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,70,Medium,INT01281,New Arrival,SMS,No Action,2024-09-17
+CUST0176,Bonnie,Kennedy,brett.garrett.cust0176@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,70,Medium,INT00331,New Arrival,SMS,No Action,2024-02-11
+CUST0176,Bonnie,Kennedy,brett.garrett.cust0176@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,70,Medium,INT00649,Loyalty Bonus,Email,Purchased,2024-07-09
+CUST0177,Michael,Chavez,alan.cooper.cust0177@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00411,Clearance Deal,App Notification,Purchased,2024-02-18
+CUST0177,Michael,Chavez,alan.cooper.cust0177@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00673,Summer Sale,SMS,Purchased,2024-05-18
+CUST0177,Michael,Chavez,alan.cooper.cust0177@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00673,Summer Sale,SMS,Purchased,2024-01-19
+CUST0179,Marissa,Phillips,donald.martinez.cust0179@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00290,Loyalty Bonus,SMS,Purchased,2024-05-10
+CUST0179,Marissa,Phillips,donald.martinez.cust0179@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00290,Loyalty Bonus,SMS,Purchased,2024-05-23
+CUST0179,Marissa,Phillips,donald.martinez.cust0179@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT01150,New Arrival,Social Media,Purchased,2024-07-21
+CUST0180,Joshua,Mccann,william.adkins.cust0180@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00767,Summer Sale,Social Media,Purchased,2024-01-12
+CUST0180,Joshua,Mccann,william.adkins.cust0180@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00283,Summer Sale,Email,No Action,2024-04-06
+CUST0180,Joshua,Mccann,william.adkins.cust0180@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00767,Summer Sale,Social Media,Purchased,2024-03-09
+CUST0180,Joshua,Mccann,william.adkins.cust0180@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00181,Summer Sale,SMS,Purchased,2024-10-19
+CUST0180,Joshua,Mccann,william.adkins.cust0180@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00181,Summer Sale,SMS,Purchased,2024-01-21
+CUST0180,Joshua,Mccann,william.adkins.cust0180@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00283,Summer Sale,Email,No Action,2024-06-06
+CUST0181,Monique,Andrews,robert.payne.cust0181@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,50,Low,INT01468,Loyalty Bonus,App Notification,No Action,2024-11-16
+CUST0181,Monique,Andrews,robert.payne.cust0181@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,50,Low,INT00580,Clearance Deal,SMS,Purchased,2024-11-06
+CUST0181,Monique,Andrews,robert.payne.cust0181@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,50,Low,INT01468,Loyalty Bonus,App Notification,No Action,2024-05-17
+CUST0182,Johnny,Hensley,william.fuller.cust0182@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00720,Loyalty Bonus,App Notification,No Action,2024-01-05
+CUST0182,Johnny,Hensley,william.fuller.cust0182@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00044,New Arrival,App Notification,Purchased,2024-06-21
+CUST0182,Johnny,Hensley,william.fuller.cust0182@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00504,New Arrival,App Notification,Purchased,2024-02-19
+CUST0183,Christopher,Wright,william.harris.cust0183@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,70,Medium,INT00224,Summer Sale,App Notification,No Action,2024-02-13
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT01361,Loyalty Bonus,SMS,No Action,2024-11-19
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT01361,Loyalty Bonus,SMS,No Action,2024-12-13
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00957,Summer Sale,App Notification,No Action,2024-07-05
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00920,Clearance Deal,Email,No Action,2024-03-16
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT01262,Summer Sale,App Notification,No Action,2024-08-13
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT01361,Loyalty Bonus,SMS,No Action,2024-08-09
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00432,New Arrival,App Notification,Purchased,2024-08-12
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00920,Clearance Deal,Email,No Action,2024-03-24
+CUST0184,Kenneth,Chapman,cheryl.brown.cust0184@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT01262,Summer Sale,App Notification,No Action,2024-11-22
+CUST0185,Cory,Farmer,jonathon.watson.cust0185@example.com,Limerick,Munster,52.6638,-8.6267,Regular,40,Low,INT00461,Loyalty Bonus,SMS,No Action,2024-07-20
+CUST0185,Cory,Farmer,jonathon.watson.cust0185@example.com,Limerick,Munster,52.6638,-8.6267,Regular,40,Low,INT00461,Loyalty Bonus,SMS,No Action,2024-02-05
+CUST0185,Cory,Farmer,jonathon.watson.cust0185@example.com,Limerick,Munster,52.6638,-8.6267,Regular,40,Low,INT00461,Loyalty Bonus,SMS,No Action,2024-02-10
+CUST0187,Michele,Jones,bradley.roy.cust0187@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00266,Clearance Deal,App Notification,No Action,2024-10-11
+CUST0187,Michele,Jones,bradley.roy.cust0187@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00266,Clearance Deal,App Notification,No Action,2024-02-05
+CUST0187,Michele,Jones,bradley.roy.cust0187@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00266,Clearance Deal,App Notification,No Action,2024-09-17
+CUST0187,Michele,Jones,bradley.roy.cust0187@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT01428,Loyalty Bonus,Email,Purchased,2024-03-07
+CUST0188,Rebekah,Serrano,david.nunez.cust0188@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT00522,Loyalty Bonus,SMS,Purchased,2024-03-14
+CUST0188,Rebekah,Serrano,david.nunez.cust0188@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT00930,Summer Sale,App Notification,Purchased,2024-05-05
+CUST0188,Rebekah,Serrano,david.nunez.cust0188@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT01438,Loyalty Bonus,Email,Purchased,2024-09-05
+CUST0188,Rebekah,Serrano,david.nunez.cust0188@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT01438,Loyalty Bonus,Email,Purchased,2024-01-14
+CUST0188,Rebekah,Serrano,david.nunez.cust0188@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,50,Low,INT01433,Summer Sale,SMS,Purchased,2024-05-16
+CUST0189,Haley,Lyons,miguel.carter.cust0189@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT00528,Loyalty Bonus,Email,Purchased,2024-06-17
+CUST0189,Haley,Lyons,miguel.carter.cust0189@example.com,Galway,Connacht,53.2707,-9.0568,High Value,40,Low,INT01495,Summer Sale,App Notification,Purchased,2024-09-08
+CUST0190,Pamela,Navarro,mary.wiley.cust0190@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT01389,Loyalty Bonus,Social Media,Purchased,2024-02-20
+CUST0190,Pamela,Navarro,mary.wiley.cust0190@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT01087,New Arrival,SMS,Purchased,2024-07-23
+CUST0190,Pamela,Navarro,mary.wiley.cust0190@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00423,New Arrival,Social Media,Purchased,2024-04-19
+CUST0191,Brenda,Smith,robert.huang.cust0191@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,40,Low,INT00078,Loyalty Bonus,SMS,No Action,2024-08-17
+CUST0192,Denise,Moon,kelly.rosales.cust0192@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,50,Low,INT01256,Loyalty Bonus,Social Media,Purchased,2024-02-22
+CUST0192,Denise,Moon,kelly.rosales.cust0192@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,50,Low,INT00088,Clearance Deal,SMS,No Action,2024-05-21
+CUST0193,Manuel,Garcia,steven.russell.cust0193@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01101,Summer Sale,Social Media,No Action,2024-02-22
+CUST0193,Manuel,Garcia,steven.russell.cust0193@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01101,Summer Sale,Social Media,No Action,2024-02-15
+CUST0193,Manuel,Garcia,steven.russell.cust0193@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00795,Clearance Deal,SMS,Purchased,2024-02-07
+CUST0193,Manuel,Garcia,steven.russell.cust0193@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01101,Summer Sale,Social Media,No Action,2024-07-06
+CUST0193,Manuel,Garcia,steven.russell.cust0193@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01239,Clearance Deal,Social Media,No Action,2024-05-12
+CUST0195,Michael,Avila,toni.anderson.cust0195@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,30,Low,INT00693,New Arrival,App Notification,Purchased,2024-11-12
+CUST0196,Samuel,Wolfe,gary.berry.cust0196@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00833,Summer Sale,SMS,Purchased,2024-02-12
+CUST0196,Samuel,Wolfe,gary.berry.cust0196@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00708,Loyalty Bonus,App Notification,No Action,2024-01-05
+CUST0196,Samuel,Wolfe,gary.berry.cust0196@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00446,Loyalty Bonus,Social Media,No Action,2024-11-17
+CUST0196,Samuel,Wolfe,gary.berry.cust0196@example.com,Cork,Munster,51.8985,-8.4756,High Value,80,High,INT00448,Loyalty Bonus,SMS,No Action,2024-05-12
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00503,New Arrival,App Notification,Purchased,2024-01-08
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00503,New Arrival,App Notification,Purchased,2024-05-10
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00662,Summer Sale,App Notification,No Action,2024-09-14
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00319,New Arrival,SMS,No Action,2024-11-21
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00458,New Arrival,SMS,Purchased,2024-12-18
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00503,New Arrival,App Notification,Purchased,2024-06-19
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00503,New Arrival,App Notification,Purchased,2024-03-21
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00947,Clearance Deal,App Notification,No Action,2024-09-11
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00662,Summer Sale,App Notification,No Action,2024-08-11
+CUST0197,Alexander,Russell,timothy.miller.cust0197@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT01432,New Arrival,Email,Purchased,2024-01-11
+CUST0198,William,Hill,maurice.cunningham.cust0198@example.com,Cork,Munster,51.8985,-8.4756,High Value,40,Low,INT01398,Summer Sale,Email,Purchased,2024-05-08
+CUST0199,Patrick,Weeks,michael.silva.cust0199@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT00126,New Arrival,Social Media,Purchased,2024-04-22
+CUST0199,Patrick,Weeks,michael.silva.cust0199@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT01255,New Arrival,SMS,No Action,2024-08-08
+CUST0199,Patrick,Weeks,michael.silva.cust0199@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT00834,Clearance Deal,Email,Purchased,2024-01-05
+CUST0199,Patrick,Weeks,michael.silva.cust0199@example.com,Waterford,Munster,52.2593,-7.1101,Regular,40,Low,INT01255,New Arrival,SMS,No Action,2024-06-24
+CUST0200,Lori,Campbell,gregory.watkins.cust0200@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00973,Summer Sale,SMS,Purchased,2024-11-09
+CUST0200,Lori,Campbell,gregory.watkins.cust0200@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00952,Summer Sale,SMS,No Action,2024-06-06
+CUST0200,Lori,Campbell,gregory.watkins.cust0200@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00884,Summer Sale,SMS,No Action,2024-12-07
+CUST0200,Lori,Campbell,gregory.watkins.cust0200@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00059,Clearance Deal,SMS,Purchased,2024-01-10
+CUST0200,Lori,Campbell,gregory.watkins.cust0200@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00059,Clearance Deal,SMS,Purchased,2024-04-08
+CUST0200,Lori,Campbell,gregory.watkins.cust0200@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00390,New Arrival,Social Media,Purchased,2024-08-17
+CUST0201,Danielle,Johnson,benjamin.brown.cust0201@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00890,Loyalty Bonus,SMS,Purchased,2024-06-20
+CUST0201,Danielle,Johnson,benjamin.brown.cust0201@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00267,Clearance Deal,Social Media,Purchased,2024-08-21
+CUST0201,Danielle,Johnson,benjamin.brown.cust0201@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00267,Clearance Deal,Social Media,Purchased,2024-07-07
+CUST0201,Danielle,Johnson,benjamin.brown.cust0201@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00267,Clearance Deal,Social Media,Purchased,2024-12-24
+CUST0201,Danielle,Johnson,benjamin.brown.cust0201@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00267,Clearance Deal,Social Media,Purchased,2024-03-16
+CUST0201,Danielle,Johnson,benjamin.brown.cust0201@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00212,Clearance Deal,Social Media,Purchased,2024-07-18
+CUST0202,Joy,Gardner,brian.hernandez.cust0202@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00442,New Arrival,Email,Purchased,2024-02-19
+CUST0202,Joy,Gardner,brian.hernandez.cust0202@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT01341,Summer Sale,Social Media,No Action,2024-09-06
+CUST0202,Joy,Gardner,brian.hernandez.cust0202@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00848,Clearance Deal,Email,Purchased,2024-02-15
+CUST0202,Joy,Gardner,brian.hernandez.cust0202@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00442,New Arrival,Email,Purchased,2024-02-11
+CUST0202,Joy,Gardner,brian.hernandez.cust0202@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00442,New Arrival,Email,Purchased,2024-05-10
+CUST0205,Christopher,Davis,nicole.davis.cust0205@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT00683,New Arrival,App Notification,Purchased,2024-03-12
+CUST0205,Christopher,Davis,nicole.davis.cust0205@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT00683,New Arrival,App Notification,Purchased,2024-04-21
+CUST0205,Christopher,Davis,nicole.davis.cust0205@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT00683,New Arrival,App Notification,Purchased,2024-11-07
+CUST0206,Teresa,Gray,tanya.wilkerson.cust0206@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,40,Low,INT00924,Clearance Deal,Email,No Action,2024-12-07
+CUST0206,Teresa,Gray,tanya.wilkerson.cust0206@example.com,Dublin,Leinster,53.3498,-6.2603,High Value,40,Low,INT01061,Loyalty Bonus,SMS,No Action,2024-07-10
+CUST0207,Jeremy,Roberts,charles.jackson.cust0207@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,80,High,INT00900,Clearance Deal,Social Media,Purchased,2024-06-06
+CUST0207,Jeremy,Roberts,charles.jackson.cust0207@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,80,High,INT00417,New Arrival,Social Media,Purchased,2024-02-22
+CUST0208,Michael,Santiago,pamela.moore.cust0208@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00296,Loyalty Bonus,App Notification,No Action,2024-09-20
+CUST0211,Douglas,Taylor,edward.horton.cust0211@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00518,Clearance Deal,Social Media,Purchased,2024-07-09
+CUST0211,Douglas,Taylor,edward.horton.cust0211@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT01132,New Arrival,Email,Purchased,2024-03-24
+CUST0211,Douglas,Taylor,edward.horton.cust0211@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT01300,New Arrival,Social Media,Purchased,2024-09-14
+CUST0211,Douglas,Taylor,edward.horton.cust0211@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT01300,New Arrival,Social Media,Purchased,2024-08-16
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00311,Clearance Deal,Email,No Action,2024-02-21
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00022,Clearance Deal,Email,Purchased,2024-01-17
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00311,Clearance Deal,Email,No Action,2024-01-17
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00073,Summer Sale,SMS,Purchased,2024-03-17
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00311,Clearance Deal,Email,No Action,2024-12-12
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00311,Clearance Deal,Email,No Action,2024-07-24
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00022,Clearance Deal,Email,Purchased,2024-06-05
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00073,Summer Sale,SMS,Purchased,2024-10-16
+CUST0212,Jeffrey,Bright,christian.orr.cust0212@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT01236,Clearance Deal,App Notification,Purchased,2024-07-19
+CUST0213,Courtney,Conner,ryan.osborn.cust0213@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT00486,Loyalty Bonus,App Notification,Purchased,2024-03-18
+CUST0213,Courtney,Conner,ryan.osborn.cust0213@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT01084,Clearance Deal,SMS,Purchased,2024-03-16
+CUST0213,Courtney,Conner,ryan.osborn.cust0213@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT00486,Loyalty Bonus,App Notification,Purchased,2024-04-20
+CUST0213,Courtney,Conner,ryan.osborn.cust0213@example.com,Waterford,Munster,52.2593,-7.1101,High Value,80,High,INT01084,Clearance Deal,SMS,Purchased,2024-08-18
+CUST0214,Allison,Maddox,cindy.mills.cust0214@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT01331,New Arrival,Social Media,Purchased,2024-08-14
+CUST0214,Allison,Maddox,cindy.mills.cust0214@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,80,High,INT00463,Summer Sale,Email,Purchased,2024-08-11
+CUST0215,Ryan,Chavez,mikayla.beard.cust0215@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01222,Clearance Deal,Email,Purchased,2024-05-24
+CUST0215,Ryan,Chavez,mikayla.beard.cust0215@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01278,Loyalty Bonus,SMS,No Action,2024-01-20
+CUST0215,Ryan,Chavez,mikayla.beard.cust0215@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01151,Loyalty Bonus,SMS,No Action,2024-12-14
+CUST0215,Ryan,Chavez,mikayla.beard.cust0215@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01151,Loyalty Bonus,SMS,No Action,2024-01-17
+CUST0215,Ryan,Chavez,mikayla.beard.cust0215@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01278,Loyalty Bonus,SMS,No Action,2024-09-11
+CUST0216,Kenneth,Fowler,andrew.roth.cust0216@example.com,Kilkenny,Leinster,52.6541,-7.2448,Regular,30,Low,INT00579,Summer Sale,SMS,Purchased,2024-01-24
+CUST0217,Sarah,Koch,scott.mcintyre.cust0217@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01473,New Arrival,SMS,No Action,2024-04-22
+CUST0217,Sarah,Koch,scott.mcintyre.cust0217@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01473,New Arrival,SMS,No Action,2024-02-22
+CUST0217,Sarah,Koch,scott.mcintyre.cust0217@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01473,New Arrival,SMS,No Action,2024-12-19
+CUST0217,Sarah,Koch,scott.mcintyre.cust0217@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01473,New Arrival,SMS,No Action,2024-03-24
+CUST0218,Christopher,Tucker,john.bryant.cust0218@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00494,Clearance Deal,Social Media,Purchased,2024-01-11
+CUST0218,Christopher,Tucker,john.bryant.cust0218@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00499,Loyalty Bonus,Social Media,Purchased,2024-02-09
+CUST0218,Christopher,Tucker,john.bryant.cust0218@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT01339,Summer Sale,SMS,Purchased,2024-12-15
+CUST0218,Christopher,Tucker,john.bryant.cust0218@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00494,Clearance Deal,Social Media,Purchased,2024-07-11
+CUST0218,Christopher,Tucker,john.bryant.cust0218@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00507,New Arrival,Social Media,Purchased,2024-09-08
+CUST0219,Sarah,Campos,michael.martin.cust0219@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT01405,Clearance Deal,Social Media,Purchased,2024-02-07
+CUST0219,Sarah,Campos,michael.martin.cust0219@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT01405,Clearance Deal,Social Media,Purchased,2024-06-09
+CUST0219,Sarah,Campos,michael.martin.cust0219@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00819,Clearance Deal,Email,Purchased,2024-08-21
+CUST0219,Sarah,Campos,michael.martin.cust0219@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT01055,Loyalty Bonus,Email,No Action,2024-09-07
+CUST0220,Brianna,Hall,michelle.coffey.cust0220@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,50,Low,INT01313,New Arrival,Email,Purchased,2024-06-09
+CUST0221,Chad,Young,jeffery.turner.cust0221@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00326,New Arrival,Email,No Action,2024-04-18
+CUST0221,Chad,Young,jeffery.turner.cust0221@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00856,Clearance Deal,SMS,Purchased,2024-11-15
+CUST0221,Chad,Young,jeffery.turner.cust0221@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00326,New Arrival,Email,No Action,2024-10-11
+CUST0222,Barbara,Sanchez,jose.dawson.cust0222@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00723,New Arrival,Social Media,Purchased,2024-01-15
+CUST0222,Barbara,Sanchez,jose.dawson.cust0222@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00439,Summer Sale,SMS,Purchased,2024-03-15
+CUST0222,Barbara,Sanchez,jose.dawson.cust0222@example.com,Cork,Munster,51.8985,-8.4756,Occasional,40,Low,INT00439,Summer Sale,SMS,Purchased,2024-11-11
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT01319,Clearance Deal,Email,No Action,2024-01-06
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT01319,Clearance Deal,Email,No Action,2024-11-08
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00408,Loyalty Bonus,App Notification,No Action,2024-08-15
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT01193,Summer Sale,App Notification,No Action,2024-02-07
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00449,Clearance Deal,Social Media,Purchased,2024-06-20
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00328,Clearance Deal,App Notification,Purchased,2024-11-21
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00702,Summer Sale,Social Media,Purchased,2024-12-13
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00702,Summer Sale,Social Media,Purchased,2024-08-19
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00449,Clearance Deal,Social Media,Purchased,2024-06-24
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00449,Clearance Deal,Social Media,Purchased,2024-05-16
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT01319,Clearance Deal,Email,No Action,2024-06-06
+CUST0223,Ryan,Henderson,richard.doyle.cust0223@example.com,Galway,Connacht,53.2707,-9.0568,High Value,80,High,INT00449,Clearance Deal,Social Media,Purchased,2024-06-18
+CUST0224,Bruce,Chandler,nancy.white.cust0224@example.com,Waterford,Munster,52.2593,-7.1101,High Value,30,Low,INT00899,Loyalty Bonus,Social Media,Purchased,2024-03-12
+CUST0224,Bruce,Chandler,nancy.white.cust0224@example.com,Waterford,Munster,52.2593,-7.1101,High Value,30,Low,INT01248,Summer Sale,Social Media,Purchased,2024-06-13
+CUST0225,John,Leblanc,robert.eaton.cust0225@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,50,Low,INT01090,New Arrival,Social Media,No Action,2024-04-24
+CUST0226,Tanya,House,brian.dickerson.cust0226@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00842,Clearance Deal,Email,No Action,2024-09-22
+CUST0226,Tanya,House,brian.dickerson.cust0226@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00842,Clearance Deal,Email,No Action,2024-05-10
+CUST0226,Tanya,House,brian.dickerson.cust0226@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00165,Clearance Deal,Email,No Action,2024-01-15
+CUST0226,Tanya,House,brian.dickerson.cust0226@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00842,Clearance Deal,Email,No Action,2024-02-14
+CUST0226,Tanya,House,brian.dickerson.cust0226@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00665,Summer Sale,App Notification,Purchased,2024-05-19
+CUST0228,James,Robinson,james.watson.cust0228@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,80,High,INT00095,Clearance Deal,Email,Purchased,2024-07-08
+CUST0228,James,Robinson,james.watson.cust0228@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,80,High,INT01218,Clearance Deal,Email,No Action,2024-08-08
+CUST0228,James,Robinson,james.watson.cust0228@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,80,High,INT00199,Loyalty Bonus,Social Media,Purchased,2024-11-20
+CUST0229,Susan,Miller,kevin.brown.cust0229@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00635,New Arrival,Social Media,No Action,2024-05-21
+CUST0229,Susan,Miller,kevin.brown.cust0229@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00873,New Arrival,SMS,No Action,2024-02-17
+CUST0229,Susan,Miller,kevin.brown.cust0229@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00766,Clearance Deal,Email,No Action,2024-01-17
+CUST0229,Susan,Miller,kevin.brown.cust0229@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00873,New Arrival,SMS,No Action,2024-09-10
+CUST0229,Susan,Miller,kevin.brown.cust0229@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00393,New Arrival,App Notification,Purchased,2024-03-23
+CUST0229,Susan,Miller,kevin.brown.cust0229@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,30,Low,INT00766,Clearance Deal,Email,No Action,2024-07-22
+CUST0231,John,Foster,sean.martinez.cust0231@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00502,Loyalty Bonus,Social Media,No Action,2024-12-05
+CUST0231,John,Foster,sean.martinez.cust0231@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00502,Loyalty Bonus,Social Media,No Action,2024-03-16
+CUST0231,John,Foster,sean.martinez.cust0231@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00984,Clearance Deal,App Notification,Purchased,2024-08-24
+CUST0231,John,Foster,sean.martinez.cust0231@example.com,Galway,Connacht,53.2707,-9.0568,Regular,40,Low,INT00502,Loyalty Bonus,Social Media,No Action,2024-03-05
+CUST0232,Albert,Howell,catherine.taylor.cust0232@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT01493,Summer Sale,App Notification,No Action,2024-02-06
+CUST0232,Albert,Howell,catherine.taylor.cust0232@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT00387,New Arrival,App Notification,No Action,2024-01-14
+CUST0232,Albert,Howell,catherine.taylor.cust0232@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT00387,New Arrival,App Notification,No Action,2024-10-14
+CUST0232,Albert,Howell,catherine.taylor.cust0232@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,40,Low,INT01479,Summer Sale,SMS,Purchased,2024-09-21
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01200,Clearance Deal,Social Media,Purchased,2024-04-21
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01200,Clearance Deal,Social Media,Purchased,2024-02-13
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01200,Clearance Deal,Social Media,Purchased,2024-03-14
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01379,Clearance Deal,App Notification,Purchased,2024-02-21
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01253,New Arrival,Social Media,No Action,2024-07-17
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01200,Clearance Deal,Social Media,Purchased,2024-02-17
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01379,Clearance Deal,App Notification,Purchased,2024-06-07
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT00497,Loyalty Bonus,Email,Purchased,2024-02-07
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01200,Clearance Deal,Social Media,Purchased,2024-02-20
+CUST0233,Mike,Moore,amy.lozano.cust0233@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01200,Clearance Deal,Social Media,Purchased,2024-07-10
+CUST0234,Dale,Humphrey,william.cummings.cust0234@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00488,Loyalty Bonus,Social Media,Purchased,2024-07-24
+CUST0234,Dale,Humphrey,william.cummings.cust0234@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00488,Loyalty Bonus,Social Media,Purchased,2024-05-05
+CUST0234,Dale,Humphrey,william.cummings.cust0234@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00249,Summer Sale,App Notification,No Action,2024-09-11
+CUST0234,Dale,Humphrey,william.cummings.cust0234@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT01037,Clearance Deal,Social Media,Purchased,2024-03-07
+CUST0235,Joseph,Jacobs,pamela.smith.cust0235@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT01277,Summer Sale,SMS,Purchased,2024-12-08
+CUST0235,Joseph,Jacobs,pamela.smith.cust0235@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT01001,Summer Sale,SMS,Purchased,2024-12-18
+CUST0235,Joseph,Jacobs,pamela.smith.cust0235@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT01258,Clearance Deal,SMS,No Action,2024-12-24
+CUST0236,Tracy,Whitehead,mary.vaughn.cust0236@example.com,Sligo,Connacht,54.2742,-8.4694,Occasional,70,Medium,INT00937,Loyalty Bonus,App Notification,Purchased,2024-03-12
+CUST0237,Evan,Ramos,howard.james.cust0237@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT00285,Loyalty Bonus,SMS,Purchased,2024-06-17
+CUST0237,Evan,Ramos,howard.james.cust0237@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT00285,Loyalty Bonus,SMS,Purchased,2024-05-21
+CUST0237,Evan,Ramos,howard.james.cust0237@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT00738,New Arrival,App Notification,Purchased,2024-04-20
+CUST0237,Evan,Ramos,howard.james.cust0237@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT00019,New Arrival,SMS,No Action,2024-06-09
+CUST0237,Evan,Ramos,howard.james.cust0237@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT01309,Loyalty Bonus,Social Media,No Action,2024-05-23
+CUST0237,Evan,Ramos,howard.james.cust0237@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT00308,New Arrival,Email,No Action,2024-10-18
+CUST0238,Rebecca,Gardner,tiffany.santiago.cust0238@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00682,Summer Sale,Social Media,No Action,2024-07-23
+CUST0238,Rebecca,Gardner,tiffany.santiago.cust0238@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT00348,Summer Sale,Social Media,Purchased,2024-01-24
+CUST0238,Rebecca,Gardner,tiffany.santiago.cust0238@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT01391,Clearance Deal,Social Media,Purchased,2024-12-10
+CUST0238,Rebecca,Gardner,tiffany.santiago.cust0238@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT01166,Clearance Deal,App Notification,No Action,2024-03-05
+CUST0238,Rebecca,Gardner,tiffany.santiago.cust0238@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,50,Low,INT01380,Summer Sale,Email,No Action,2024-06-20
+CUST0239,Rachel,Flynn,melissa.booth.cust0239@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00255,New Arrival,App Notification,No Action,2024-10-05
+CUST0239,Rachel,Flynn,melissa.booth.cust0239@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00239,Clearance Deal,App Notification,Purchased,2024-08-11
+CUST0239,Rachel,Flynn,melissa.booth.cust0239@example.com,Cork,Munster,51.8985,-8.4756,Regular,50,Low,INT00255,New Arrival,App Notification,No Action,2024-09-22
+CUST0240,Terri,Brady,christopher.jimenez.cust0240@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00810,Loyalty Bonus,Social Media,Purchased,2024-09-11
+CUST0240,Terri,Brady,christopher.jimenez.cust0240@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00247,Loyalty Bonus,Email,Purchased,2024-03-08
+CUST0240,Terri,Brady,christopher.jimenez.cust0240@example.com,Waterford,Munster,52.2593,-7.1101,Regular,80,High,INT00810,Loyalty Bonus,Social Media,Purchased,2024-10-10
+CUST0241,Kimberly,Jenkins,sylvia.walsh.cust0241@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00571,Clearance Deal,Email,No Action,2024-08-20
+CUST0241,Kimberly,Jenkins,sylvia.walsh.cust0241@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT01334,Loyalty Bonus,SMS,Purchased,2024-08-10
+CUST0241,Kimberly,Jenkins,sylvia.walsh.cust0241@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00575,Summer Sale,Email,Purchased,2024-09-08
+CUST0241,Kimberly,Jenkins,sylvia.walsh.cust0241@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00256,Clearance Deal,SMS,Purchased,2024-04-24
+CUST0241,Kimberly,Jenkins,sylvia.walsh.cust0241@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00256,Clearance Deal,SMS,Purchased,2024-11-06
+CUST0242,Lisa,Stevens,matthew.gallegos.cust0242@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT00203,New Arrival,App Notification,Purchased,2024-09-20
+CUST0242,Lisa,Stevens,matthew.gallegos.cust0242@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01019,Clearance Deal,Email,No Action,2024-01-12
+CUST0242,Lisa,Stevens,matthew.gallegos.cust0242@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01243,New Arrival,App Notification,Purchased,2024-01-19
+CUST0242,Lisa,Stevens,matthew.gallegos.cust0242@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,60,Medium,INT01019,Clearance Deal,Email,No Action,2024-02-23
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00697,Summer Sale,Email,Purchased,2024-05-16
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT01307,New Arrival,Social Media,Purchased,2024-10-19
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00697,Summer Sale,Email,Purchased,2024-07-19
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00697,Summer Sale,Email,Purchased,2024-09-19
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00697,Summer Sale,Email,Purchased,2024-03-13
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00598,New Arrival,Email,Purchased,2024-12-14
+CUST0243,Mark,Lin,sarah.long.cust0243@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,30,Low,INT00005,Clearance Deal,Social Media,No Action,2024-03-24
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00686,Clearance Deal,SMS,Purchased,2024-01-20
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT01123,New Arrival,App Notification,Purchased,2024-02-10
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00281,Clearance Deal,Email,Purchased,2024-03-05
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00686,Clearance Deal,SMS,Purchased,2024-03-22
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00686,Clearance Deal,SMS,Purchased,2024-07-09
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00684,Clearance Deal,App Notification,Purchased,2024-09-10
+CUST0244,Sheila,Wilson,brandon.mcconnell.cust0244@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT00454,Summer Sale,App Notification,No Action,2024-07-15
+CUST0245,Daniel,Hamilton,tiffany.moon.cust0245@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00898,New Arrival,Email,Purchased,2024-05-14
+CUST0245,Daniel,Hamilton,tiffany.moon.cust0245@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00898,New Arrival,Email,Purchased,2024-09-10
+CUST0245,Daniel,Hamilton,tiffany.moon.cust0245@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT01454,Clearance Deal,App Notification,Purchased,2024-06-18
+CUST0245,Daniel,Hamilton,tiffany.moon.cust0245@example.com,Galway,Connacht,53.2707,-9.0568,Regular,60,Medium,INT00898,New Arrival,Email,Purchased,2024-07-12
+CUST0246,Paul,Ray,claudia.roberts.cust0246@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT00284,Summer Sale,SMS,No Action,2024-07-20
+CUST0246,Paul,Ray,claudia.roberts.cust0246@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT01367,Summer Sale,Social Media,Purchased,2024-03-12
+CUST0246,Paul,Ray,claudia.roberts.cust0246@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT01342,New Arrival,Email,Purchased,2024-08-22
+CUST0246,Paul,Ray,claudia.roberts.cust0246@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,60,Medium,INT01367,Summer Sale,Social Media,Purchased,2024-06-12
+CUST0247,Gloria,Bentley,sherri.mckinney.cust0247@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,40,Low,INT00010,New Arrival,Social Media,No Action,2024-03-15
+CUST0247,Gloria,Bentley,sherri.mckinney.cust0247@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,40,Low,INT00010,New Arrival,Social Media,No Action,2024-04-21
+CUST0247,Gloria,Bentley,sherri.mckinney.cust0247@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,40,Low,INT00318,Clearance Deal,Email,No Action,2024-05-12
+CUST0247,Gloria,Bentley,sherri.mckinney.cust0247@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,40,Low,INT00531,Clearance Deal,App Notification,Purchased,2024-04-18
+CUST0248,William,Estrada,joseph.floyd.cust0248@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00106,Clearance Deal,Email,Purchased,2024-02-09
+CUST0248,William,Estrada,joseph.floyd.cust0248@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00526,Summer Sale,Email,Purchased,2024-07-15
+CUST0248,William,Estrada,joseph.floyd.cust0248@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT00099,Clearance Deal,SMS,No Action,2024-03-05
+CUST0249,James,Ortega,christina.lowe.cust0249@example.com,Cork,Munster,51.8985,-8.4756,Occasional,80,High,INT01245,Clearance Deal,SMS,No Action,2024-07-17
+CUST0250,Martha,Torres,john.oliver.cust0250@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00477,Summer Sale,Email,No Action,2024-01-09
+CUST0250,Martha,Torres,john.oliver.cust0250@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT01106,Clearance Deal,App Notification,No Action,2024-04-13
+CUST0250,Martha,Torres,john.oliver.cust0250@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00958,Clearance Deal,SMS,No Action,2024-03-12
+CUST0251,Thomas,Santana,sydney.moss.cust0251@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01016,Summer Sale,Email,Purchased,2024-05-09
+CUST0251,Thomas,Santana,sydney.moss.cust0251@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT00972,Loyalty Bonus,SMS,Purchased,2024-03-24
+CUST0251,Thomas,Santana,sydney.moss.cust0251@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,40,Low,INT01016,Summer Sale,Email,Purchased,2024-12-24
+CUST0252,Jeffrey,Gonzalez,kim.garrett.cust0252@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT00897,Summer Sale,SMS,Purchased,2024-02-07
+CUST0252,Jeffrey,Gonzalez,kim.garrett.cust0252@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT00851,Loyalty Bonus,SMS,No Action,2024-06-05
+CUST0252,Jeffrey,Gonzalez,kim.garrett.cust0252@example.com,Limerick,Munster,52.6638,-8.6267,Regular,80,High,INT00897,Summer Sale,SMS,Purchased,2024-04-06
+CUST0254,Adam,Potter,john.may.cust0254@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00368,Clearance Deal,Social Media,No Action,2024-05-13
+CUST0254,Adam,Potter,john.may.cust0254@example.com,Galway,Connacht,53.2707,-9.0568,High Value,60,Medium,INT00658,Clearance Deal,SMS,No Action,2024-02-21
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT01182,Clearance Deal,App Notification,Purchased,2024-06-24
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT01047,Loyalty Bonus,Email,No Action,2024-05-16
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT00075,New Arrival,Email,Purchased,2024-11-14
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT01182,Clearance Deal,App Notification,Purchased,2024-10-15
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT00075,New Arrival,Email,Purchased,2024-05-14
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT00876,Loyalty Bonus,Social Media,Purchased,2024-04-22
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT01182,Clearance Deal,App Notification,Purchased,2024-05-17
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT00075,New Arrival,Email,Purchased,2024-05-13
+CUST0255,Stephen,Solis,bradley.villanueva.cust0255@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,40,Low,INT00876,Loyalty Bonus,Social Media,Purchased,2024-10-23
+CUST0256,Ronald,Meadows,jamie.poole.cust0256@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,50,Low,INT01142,Clearance Deal,Email,No Action,2024-10-18
+CUST0256,Ronald,Meadows,jamie.poole.cust0256@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,50,Low,INT00979,New Arrival,Email,No Action,2024-10-08
+CUST0256,Ronald,Meadows,jamie.poole.cust0256@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,50,Low,INT00511,Clearance Deal,App Notification,Purchased,2024-02-11
+CUST0257,Karen,Larsen,chad.underwood.cust0257@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT01481,Clearance Deal,Email,Purchased,2024-09-10
+CUST0257,Karen,Larsen,chad.underwood.cust0257@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00101,Summer Sale,SMS,Purchased,2024-03-18
+CUST0257,Karen,Larsen,chad.underwood.cust0257@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00101,Summer Sale,SMS,Purchased,2024-01-06
+CUST0257,Karen,Larsen,chad.underwood.cust0257@example.com,Cork,Munster,51.8985,-8.4756,Regular,30,Low,INT00516,Loyalty Bonus,Email,No Action,2024-10-08
+CUST0258,Chris,Mitchell,sarah.rodriguez.cust0258@example.com,Galway,Connacht,53.2707,-9.0568,High Value,70,Medium,INT01471,Clearance Deal,Email,No Action,2024-11-24
+CUST0258,Chris,Mitchell,sarah.rodriguez.cust0258@example.com,Galway,Connacht,53.2707,-9.0568,High Value,70,Medium,INT01471,Clearance Deal,Email,No Action,2024-02-18
+CUST0258,Chris,Mitchell,sarah.rodriguez.cust0258@example.com,Galway,Connacht,53.2707,-9.0568,High Value,70,Medium,INT01471,Clearance Deal,Email,No Action,2024-10-23
+CUST0259,Edward,Reyes,angela.peters.cust0259@example.com,Cork,Munster,51.8985,-8.4756,Regular,40,Low,INT00613,Summer Sale,Social Media,Purchased,2024-12-10
+CUST0261,Amanda,Navarro,james.carpenter.cust0261@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,60,Medium,INT00294,New Arrival,Social Media,No Action,2024-06-15
+CUST0261,Amanda,Navarro,james.carpenter.cust0261@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,60,Medium,INT00294,New Arrival,Social Media,No Action,2024-08-22
+CUST0262,Jennifer,Pittman,kevin.silva.cust0262@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00416,Summer Sale,Email,Purchased,2024-01-20
+CUST0262,Jennifer,Pittman,kevin.silva.cust0262@example.com,Waterford,Munster,52.2593,-7.1101,Regular,50,Low,INT00416,Summer Sale,Email,Purchased,2024-12-19
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT01424,Summer Sale,App Notification,No Action,2024-01-19
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT00177,Summer Sale,Email,No Action,2024-05-05
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT01212,Clearance Deal,App Notification,No Action,2024-10-07
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT01212,Clearance Deal,App Notification,No Action,2024-09-16
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT00893,Summer Sale,App Notification,No Action,2024-02-09
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT00177,Summer Sale,Email,No Action,2024-01-07
+CUST0264,Joshua,Bean,jessica.mcclain.cust0264@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,50,Low,INT01212,Clearance Deal,App Notification,No Action,2024-06-06
+CUST0265,Amber,Cooke,brittany.vincent.cust0265@example.com,Sligo,Connacht,54.2742,-8.4694,High Value,70,Medium,INT00544,Clearance Deal,SMS,No Action,2024-08-22
+CUST0267,Anne,Robinson,samantha.keith.cust0267@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,40,Low,INT00027,Summer Sale,Social Media,No Action,2024-12-07
+CUST0267,Anne,Robinson,samantha.keith.cust0267@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,40,Low,INT00748,Loyalty Bonus,SMS,No Action,2024-08-18
+CUST0267,Anne,Robinson,samantha.keith.cust0267@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,40,Low,INT00145,New Arrival,SMS,No Action,2024-05-09
+CUST0267,Anne,Robinson,samantha.keith.cust0267@example.com,Athlone,Leinster,53.4239,-7.9407,High Value,40,Low,INT00027,Summer Sale,Social Media,No Action,2024-02-10
+CUST0268,Tami,Rodriguez,nicholas.solomon.cust0268@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01000,New Arrival,Social Media,Purchased,2024-05-12
+CUST0268,Tami,Rodriguez,nicholas.solomon.cust0268@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01000,New Arrival,Social Media,Purchased,2024-04-22
+CUST0268,Tami,Rodriguez,nicholas.solomon.cust0268@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01130,Loyalty Bonus,SMS,No Action,2024-08-05
+CUST0268,Tami,Rodriguez,nicholas.solomon.cust0268@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT00129,Loyalty Bonus,App Notification,Purchased,2024-01-14
+CUST0268,Tami,Rodriguez,nicholas.solomon.cust0268@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01302,Summer Sale,Social Media,Purchased,2024-01-18
+CUST0268,Tami,Rodriguez,nicholas.solomon.cust0268@example.com,Cork,Munster,51.8985,-8.4756,Regular,60,Medium,INT01130,Loyalty Bonus,SMS,No Action,2024-11-13
+CUST0269,Curtis,Barton,michael.love.cust0269@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,70,Medium,INT00109,Loyalty Bonus,Social Media,No Action,2024-01-15
+CUST0269,Curtis,Barton,michael.love.cust0269@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,70,Medium,INT00763,Summer Sale,Email,Purchased,2024-04-22
+CUST0269,Curtis,Barton,michael.love.cust0269@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,70,Medium,INT00763,Summer Sale,Email,Purchased,2024-11-08
+CUST0269,Curtis,Barton,michael.love.cust0269@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,70,Medium,INT00084,Clearance Deal,App Notification,Purchased,2024-06-20
+CUST0270,Melissa,Short,john.anderson.cust0270@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT00538,Loyalty Bonus,Email,Purchased,2024-02-09
+CUST0270,Melissa,Short,john.anderson.cust0270@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT01482,Clearance Deal,App Notification,Purchased,2024-04-14
+CUST0270,Melissa,Short,john.anderson.cust0270@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT01482,Clearance Deal,App Notification,Purchased,2024-09-08
+CUST0270,Melissa,Short,john.anderson.cust0270@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT01482,Clearance Deal,App Notification,Purchased,2024-05-12
+CUST0270,Melissa,Short,john.anderson.cust0270@example.com,Galway,Connacht,53.2707,-9.0568,Occasional,80,High,INT01482,Clearance Deal,App Notification,Purchased,2024-01-19
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT00700,New Arrival,Social Media,Purchased,2024-04-10
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT01340,Summer Sale,SMS,Purchased,2024-08-07
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT00712,New Arrival,App Notification,No Action,2024-11-18
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT01402,Loyalty Bonus,Social Media,No Action,2024-02-17
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT01340,Summer Sale,SMS,Purchased,2024-02-20
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT00712,New Arrival,App Notification,No Action,2024-07-06
+CUST0272,Joseph,Christian,laura.hoover.cust0272@example.com,Waterford,Munster,52.2593,-7.1101,High Value,40,Low,INT01402,Loyalty Bonus,Social Media,No Action,2024-04-06
+CUST0273,Hunter,Lewis,gabrielle.serrano.cust0273@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00691,Summer Sale,App Notification,No Action,2024-08-11
+CUST0273,Hunter,Lewis,gabrielle.serrano.cust0273@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00307,Loyalty Bonus,App Notification,Purchased,2024-05-18
+CUST0273,Hunter,Lewis,gabrielle.serrano.cust0273@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT01487,Loyalty Bonus,SMS,No Action,2024-07-13
+CUST0273,Hunter,Lewis,gabrielle.serrano.cust0273@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00388,Clearance Deal,SMS,No Action,2024-04-22
+CUST0273,Hunter,Lewis,gabrielle.serrano.cust0273@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT00162,Summer Sale,Social Media,Purchased,2024-04-21
+CUST0273,Hunter,Lewis,gabrielle.serrano.cust0273@example.com,Athlone,Leinster,53.4239,-7.9407,Occasional,30,Low,INT01490,Loyalty Bonus,SMS,Purchased,2024-01-23
+CUST0274,Alejandro,Vaughan,heidi.patterson.cust0274@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00568,Loyalty Bonus,App Notification,No Action,2024-03-15
+CUST0274,Alejandro,Vaughan,heidi.patterson.cust0274@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00233,Summer Sale,SMS,Purchased,2024-01-07
+CUST0274,Alejandro,Vaughan,heidi.patterson.cust0274@example.com,Cork,Munster,51.8985,-8.4756,Occasional,70,Medium,INT00931,New Arrival,SMS,No Action,2024-02-13
+CUST0275,Shane,Smith,ricky.lopez.cust0275@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,40,Low,INT00034,Summer Sale,SMS,No Action,2024-03-10
+CUST0275,Shane,Smith,ricky.lopez.cust0275@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,40,Low,INT01006,Clearance Deal,Email,Purchased,2024-02-18
+CUST0275,Shane,Smith,ricky.lopez.cust0275@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,40,Low,INT00016,New Arrival,SMS,Purchased,2024-11-12
+CUST0276,Bonnie,Kennedy,jon.wyatt.cust0276@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,80,High,INT01206,Clearance Deal,Social Media,No Action,2024-10-19
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT01451,Loyalty Bonus,SMS,No Action,2024-04-23
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00198,Summer Sale,Email,Purchased,2024-05-06
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00907,Loyalty Bonus,App Notification,Purchased,2024-05-17
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00560,Loyalty Bonus,Social Media,Purchased,2024-08-16
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00560,Loyalty Bonus,Social Media,Purchased,2024-07-14
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00560,Loyalty Bonus,Social Media,Purchased,2024-06-07
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00560,Loyalty Bonus,Social Media,Purchased,2024-09-18
+CUST0277,Michael,Chavez,janice.fitzgerald.cust0277@example.com,Galway,Connacht,53.2707,-9.0568,Regular,50,Low,INT00976,New Arrival,SMS,No Action,2024-04-10
+CUST0278,Julia,Tapia,linda.morrow.cust0278@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,60,Medium,INT01411,Clearance Deal,App Notification,Purchased,2024-04-09
+CUST0278,Julia,Tapia,linda.morrow.cust0278@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,60,Medium,INT01411,Clearance Deal,App Notification,Purchased,2024-05-08
+CUST0278,Julia,Tapia,linda.morrow.cust0278@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,60,Medium,INT00180,Summer Sale,Email,No Action,2024-01-14
+CUST0278,Julia,Tapia,linda.morrow.cust0278@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,60,Medium,INT00180,Summer Sale,Email,No Action,2024-05-10
+CUST0278,Julia,Tapia,linda.morrow.cust0278@example.com,Limerick,Munster,52.6638,-8.6267,Occasional,60,Medium,INT00180,Summer Sale,Email,No Action,2024-07-18
+CUST0279,Marissa,Phillips,diana.mitchell.cust0279@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,70,Medium,INT00332,Clearance Deal,Social Media,No Action,2024-06-19
+CUST0280,Joshua,Mccann,christopher.hill.cust0280@example.com,Waterford,Munster,52.2593,-7.1101,High Value,70,Medium,INT00450,Clearance Deal,Email,Purchased,2024-08-22
+CUST0281,Monique,Andrews,sylvia.hill.cust0281@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00315,New Arrival,Email,No Action,2024-01-12
+CUST0281,Monique,Andrews,sylvia.hill.cust0281@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00754,Summer Sale,App Notification,No Action,2024-12-19
+CUST0281,Monique,Andrews,sylvia.hill.cust0281@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00315,New Arrival,Email,No Action,2024-06-15
+CUST0281,Monique,Andrews,sylvia.hill.cust0281@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,70,Medium,INT00754,Summer Sale,App Notification,No Action,2024-12-21
+CUST0282,Johnny,Hensley,leah.frye.cust0282@example.com,Galway,Connacht,53.2707,-9.0568,Regular,70,Medium,INT00182,Summer Sale,Social Media,Purchased,2024-05-13
+CUST0283,Christopher,Wright,stephanie.black.cust0283@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,30,Low,INT00500,New Arrival,Email,Purchased,2024-06-21
+CUST0283,Christopher,Wright,stephanie.black.cust0283@example.com,Dublin,Leinster,53.3498,-6.2603,Occasional,30,Low,INT00500,New Arrival,Email,Purchased,2024-03-09
+CUST0284,Kenneth,Chapman,james.moss.cust0284@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,70,Medium,INT01296,Clearance Deal,SMS,Purchased,2024-03-07
+CUST0284,Kenneth,Chapman,james.moss.cust0284@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,70,Medium,INT00944,New Arrival,App Notification,Purchased,2024-07-19
+CUST0284,Kenneth,Chapman,james.moss.cust0284@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,70,Medium,INT01088,Loyalty Bonus,Social Media,Purchased,2024-06-07
+CUST0285,Cory,Farmer,travis.smith.cust0285@example.com,Limerick,Munster,52.6638,-8.6267,Regular,50,Low,INT00350,Clearance Deal,Email,Purchased,2024-04-12
+CUST0285,Cory,Farmer,travis.smith.cust0285@example.com,Limerick,Munster,52.6638,-8.6267,Regular,50,Low,INT00302,Loyalty Bonus,Social Media,No Action,2024-02-07
+CUST0285,Cory,Farmer,travis.smith.cust0285@example.com,Limerick,Munster,52.6638,-8.6267,Regular,50,Low,INT00457,New Arrival,Email,No Action,2024-04-09
+CUST0285,Cory,Farmer,travis.smith.cust0285@example.com,Limerick,Munster,52.6638,-8.6267,Regular,50,Low,INT00302,Loyalty Bonus,Social Media,No Action,2024-06-17
+CUST0285,Cory,Farmer,travis.smith.cust0285@example.com,Limerick,Munster,52.6638,-8.6267,Regular,50,Low,INT00033,Summer Sale,Social Media,Purchased,2024-04-16
+CUST0286,Ricky,Norris,sheila.johnson.cust0286@example.com,Cork,Munster,51.8985,-8.4756,Occasional,50,Low,INT01153,Loyalty Bonus,Email,Purchased,2024-07-07
+CUST0287,Michele,Jones,amy.young.cust0287@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT00430,Summer Sale,App Notification,No Action,2024-12-14
+CUST0287,Michele,Jones,amy.young.cust0287@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT00176,Clearance Deal,SMS,No Action,2024-06-08
+CUST0288,Rebekah,Serrano,gina.olsen.cust0288@example.com,Sligo,Connacht,54.2742,-8.4694,Regular,80,High,INT01444,Clearance Deal,SMS,No Action,2024-06-11
+CUST0290,Pamela,Navarro,sarah.scott.cust0290@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00800,New Arrival,Email,Purchased,2024-02-05
+CUST0290,Pamela,Navarro,sarah.scott.cust0290@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00029,New Arrival,Email,Purchased,2024-03-14
+CUST0290,Pamela,Navarro,sarah.scott.cust0290@example.com,Cork,Munster,51.8985,-8.4756,High Value,70,Medium,INT00029,New Arrival,Email,Purchased,2024-04-12
+CUST0291,Brenda,Smith,justin.welch.cust0291@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00525,Loyalty Bonus,SMS,Purchased,2024-01-17
+CUST0291,Brenda,Smith,justin.welch.cust0291@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00240,Clearance Deal,Social Media,Purchased,2024-08-11
+CUST0291,Brenda,Smith,justin.welch.cust0291@example.com,Kilkenny,Leinster,52.6541,-7.2448,High Value,30,Low,INT00329,New Arrival,Email,Purchased,2024-12-10
+CUST0292,Denise,Moon,deanna.nelson.cust0292@example.com,Kilkenny,Leinster,52.6541,-7.2448,Occasional,30,Low,INT00400,New Arrival,Social Media,Purchased,2024-10-17
+CUST0293,Manuel,Garcia,cody.zuniga.cust0293@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT00869,Clearance Deal,Social Media,Purchased,2024-09-22
+CUST0293,Manuel,Garcia,cody.zuniga.cust0293@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT00057,Summer Sale,App Notification,No Action,2024-12-10
+CUST0293,Manuel,Garcia,cody.zuniga.cust0293@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT00869,Clearance Deal,Social Media,Purchased,2024-04-10
+CUST0293,Manuel,Garcia,cody.zuniga.cust0293@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT00057,Summer Sale,App Notification,No Action,2024-09-23
+CUST0293,Manuel,Garcia,cody.zuniga.cust0293@example.com,Limerick,Munster,52.6638,-8.6267,Regular,30,Low,INT01374,Clearance Deal,Social Media,Purchased,2024-03-09
+CUST0294,Christopher,King,courtney.anderson.cust0294@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,80,High,INT01328,Clearance Deal,Social Media,No Action,2024-04-20
+CUST0294,Christopher,King,courtney.anderson.cust0294@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,80,High,INT00190,New Arrival,Social Media,No Action,2024-10-24
+CUST0294,Christopher,King,courtney.anderson.cust0294@example.com,Athlone,Leinster,53.4239,-7.9407,Regular,80,High,INT00342,Clearance Deal,Email,Purchased,2024-09-18
+CUST0295,Michael,Avila,kaitlyn.wiley.cust0295@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,80,High,INT01066,Clearance Deal,Email,No Action,2024-03-12
+CUST0295,Michael,Avila,kaitlyn.wiley.cust0295@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,80,High,INT01412,Clearance Deal,Social Media,Purchased,2024-04-16
+CUST0295,Michael,Avila,kaitlyn.wiley.cust0295@example.com,Dublin,Leinster,53.3498,-6.2603,Regular,80,High,INT00292,Loyalty Bonus,App Notification,Purchased,2024-03-11
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00521,Clearance Deal,SMS,Purchased,2024-01-12
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT01294,Clearance Deal,Social Media,Purchased,2024-12-16
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00151,Clearance Deal,App Notification,No Action,2024-01-06
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00510,Loyalty Bonus,Social Media,Purchased,2024-11-20
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00521,Clearance Deal,SMS,Purchased,2024-01-09
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00521,Clearance Deal,SMS,Purchased,2024-08-10
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00670,Summer Sale,Social Media,Purchased,2024-05-10
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00670,Summer Sale,Social Media,Purchased,2024-06-08
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00521,Clearance Deal,SMS,Purchased,2024-05-16
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00521,Clearance Deal,SMS,Purchased,2024-12-07
+CUST0296,Samuel,Wolfe,alexandra.chang.cust0296@example.com,Cork,Munster,51.8985,-8.4756,High Value,50,Low,INT00392,Clearance Deal,SMS,No Action,2024-04-10
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00562,Clearance Deal,SMS,Purchased,2024-06-24
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT01220,Clearance Deal,Email,No Action,2024-10-08
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00562,Clearance Deal,SMS,Purchased,2024-07-23
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00562,Clearance Deal,SMS,Purchased,2024-10-15
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT00562,Clearance Deal,SMS,Purchased,2024-08-17
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT01220,Clearance Deal,Email,No Action,2024-08-16
+CUST0297,Alexander,Russell,carla.robles.cust0297@example.com,Waterford,Munster,52.2593,-7.1101,Regular,30,Low,INT01220,Clearance Deal,Email,No Action,2024-04-05
+CUST0298,William,Hill,deborah.patel.cust0298@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT01093,New Arrival,SMS,No Action,2024-07-17
+CUST0298,William,Hill,deborah.patel.cust0298@example.com,Cork,Munster,51.8985,-8.4756,High Value,30,Low,INT01458,Clearance Deal,App Notification,Purchased,2024-07-20
+CUST0299,Patrick,Weeks,malik.hernandez.cust0299@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT01376,Clearance Deal,SMS,No Action,2024-10-13
+CUST0299,Patrick,Weeks,malik.hernandez.cust0299@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT01376,Clearance Deal,SMS,No Action,2024-10-20
+CUST0299,Patrick,Weeks,malik.hernandez.cust0299@example.com,Waterford,Munster,52.2593,-7.1101,Regular,60,Medium,INT01376,Clearance Deal,SMS,No Action,2024-09-12
+CUST0300,Lori,Campbell,heidi.johnson.cust0300@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT01244,New Arrival,App Notification,Purchased,2024-02-19
+CUST0300,Lori,Campbell,heidi.johnson.cust0300@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT01244,New Arrival,App Notification,Purchased,2024-11-06
+CUST0300,Lori,Campbell,heidi.johnson.cust0300@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT01244,New Arrival,App Notification,Purchased,2024-07-22
+CUST0300,Lori,Campbell,heidi.johnson.cust0300@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00736,Loyalty Bonus,Email,No Action,2024-05-11
+CUST0300,Lori,Campbell,heidi.johnson.cust0300@example.com,Waterford,Munster,52.2593,-7.1101,Occasional,60,Medium,INT00736,Loyalty Bonus,Email,No Action,2024-03-09

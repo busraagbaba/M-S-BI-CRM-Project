@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Product_Category,Cost_Price,Selling_Price,Stock_Level
+PROD001,M&S Organic Cotton Shirt,Men's Clothing,77,87,26
+PROD002,M&S Denim Jeans,Men's Clothing,27,53,141
+PROD003,M&S Summer Dress,Women's Clothing,29,56,53
+PROD004,M&S Leather Handbag,Accessories,53,76,125
+PROD005,M&S Kids Pajamas,Kidswear,42,109,108
+PROD006,M&S Men's Sneakers,Footwear,45,57,33
+PROD007,M&S Women's Sandals,Footwear,43,63,109
+PROD008,M&S Organic Granola,Food,11,28,139
+PROD009,M&S Dark Chocolate,Food,14,77,141
+PROD010,M&S Sparkling Water,Beverages,28,65,78
+PROD011,M&S Pinot Grigio,Wine & Spirits,56,123,53
+PROD012,M&S Earl Grey Tea,Beverages,41,93,143
+PROD013,M&S Towel Set,Home & Living,62,111,41
+PROD014,M&S Luxury Bedding,Home & Living,32,98,45
+PROD015,M&S Hair Conditioner,Health & Beauty,52,112,68
+PROD016,M&S Hand Cream,Health & Beauty,30,90,9
+PROD017,M&S Cotton Socks (3 Pack),Essentials,70,94,89
+PROD018,M&S Black Leggings,Women's Clothing,49,111,6
+PROD019,M&S School Backpack,Accessories,34,69,17
+PROD020,M&S Vegan Sandwich,Food To Go,45,77,137
